@@ -13855,7 +13855,7 @@
         "character": "󰫯"
     },
     {
-        "name": "speaker_wave_three_slash_mirroring",
+        "name": "speaker_wave_3_slash_mirroring",
         "unicode_hex": "U+F0AF0",
         "character": "󰫰"
     },
@@ -18850,6 +18850,136 @@
         "character": "󰻥"
     },
     {
+        "name": "title_1",
+        "unicode_hex": "U+F0EE6",
+        "character": "󰻦"
+    },
+    {
+        "name": "title_2",
+        "unicode_hex": "U+F0EE7",
+        "character": "󰻧"
+    },
+    {
+        "name": "title_3",
+        "unicode_hex": "U+F0EE8",
+        "character": "󰻨"
+    },
+    {
+        "name": "title_n",
+        "unicode_hex": "U+F0EE9",
+        "character": "󰻩"
+    },
+    {
+        "name": "title_4",
+        "unicode_hex": "U+F0EEA",
+        "character": "󰻪"
+    },
+    {
+        "name": "title_5",
+        "unicode_hex": "U+F0EEB",
+        "character": "󰻫"
+    },
+    {
+        "name": "title_6",
+        "unicode_hex": "U+F0EEC",
+        "character": "󰻬"
+    },
+    {
+        "name": "divider",
+        "unicode_hex": "U+F0EED",
+        "character": "󰻭"
+    },
+    {
+        "name": "title_size",
+        "unicode_hex": "U+F0EEE",
+        "character": "󰻮"
+    },
+    {
+        "name": "quote",
+        "unicode_hex": "U+F0EEF",
+        "character": "󰻯"
+    },
+    {
+        "name": "highlight_block",
+        "unicode_hex": "U+F0EF0",
+        "character": "󰻰"
+    },
+    {
+        "name": "character_upper_plus",
+        "unicode_hex": "U+F0EF1",
+        "character": "󰻱"
+    },
+    {
+        "name": "character_upper_minus.",
+        "unicode_hex": "U+F0EF2",
+        "character": "󰻲"
+    },
+    {
+        "name": "text_arrow_up_and_down",
+        "unicode_hex": "U+F0EF3",
+        "character": "󰻳"
+    },
+    {
+        "name": "xmark_square",
+        "unicode_hex": "U+F0EF4",
+        "character": "󰻴"
+    },
+    {
+        "name": "xmark_lower_2",
+        "unicode_hex": "U+F0EF5",
+        "character": "󰻵"
+    },
+    {
+        "name": "code_1",
+        "unicode_hex": "U+F0EF6",
+        "character": "󰻶"
+    },
+    {
+        "name": "translate_square_fill",
+        "unicode_hex": "U+F0EF7",
+        "character": "󰻷"
+    },
+    {
+        "name": "dot_grid_2x1",
+        "unicode_hex": "U+F0EF8",
+        "character": "󰻸"
+    },
+    {
+        "name": "hitch",
+        "unicode_hex": "U+F0EF9",
+        "character": "󰻹"
+    },
+    {
+        "name": "wave",
+        "unicode_hex": "U+F0EFA",
+        "character": "󰻺"
+    },
+    {
+        "name": "tire_wet_and_slippery",
+        "unicode_hex": "U+F0EFB",
+        "character": "󰻻"
+    },
+    {
+        "name": "steeringwheel",
+        "unicode_hex": "U+F0EFC",
+        "character": "󰻼"
+    },
+    {
+        "name": "motion_sickness_relief",
+        "unicode_hex": "U+F0EFD",
+        "character": "󰻽"
+    },
+    {
+        "name": "off",
+        "unicode_hex": "U+F0EFE",
+        "character": "󰻾"
+    },
+    {
+        "name": "figure_wash",
+        "unicode_hex": "U+F0EFF",
+        "character": "󰻿"
+    },
+    {
         "name": "transfer_mirroring",
         "unicode_hex": "U+F0F00",
         "character": "󰼀"
@@ -19075,6 +19205,16 @@
         "character": "󰼭"
     },
     {
+        "name": "figure_walk_zebra_stripes_mirroring",
+        "unicode_hex": "U+F0F2E",
+        "character": "󰼮"
+    },
+    {
+        "name": "star_folder_mirroring",
+        "unicode_hex": "U+F0F2F",
+        "character": "󰼯"
+    },
+    {
         "name": "phone_sos_mirroring",
         "unicode_hex": "U+F0F30",
         "character": "󰼰"
@@ -19090,9 +19230,44 @@
         "character": "󰼲"
     },
     {
+        "name": "star_folder_fill_mirroring",
+        "unicode_hex": "U+F0F33",
+        "character": "󰼳"
+    },
+    {
         "name": "stair_mirroring",
         "unicode_hex": "U+F0F34",
         "character": "󰼴"
+    },
+    {
+        "name": "stylus_and_scribble_mirroring",
+        "unicode_hex": "U+F0F35",
+        "character": "󰼵"
+    },
+    {
+        "name": "stylus_and_rectangle_mirroring",
+        "unicode_hex": "U+F0F36",
+        "character": "󰼶"
+    },
+    {
+        "name": "stylus_line_mirroring",
+        "unicode_hex": "U+F0F37",
+        "character": "󰼷"
+    },
+    {
+        "name": "stylus_wave_2_diagonal_mirroring",
+        "unicode_hex": "U+F0F38",
+        "character": "󰼸"
+    },
+    {
+        "name": "stylus_wave_2_mirroring",
+        "unicode_hex": "U+F0F39",
+        "character": "󰼹"
+    },
+    {
+        "name": "stylus_mirroring",
+        "unicode_hex": "U+F0F3A",
+        "character": "󰼺"
     },
     {
         "name": "airplane_arrival_mirroring",
@@ -19113,6 +19288,26 @@
         "name": "move_install_mirroring",
         "unicode_hex": "U+F0F3F",
         "character": "󰼿"
+    },
+    {
+        "name": "eraser_line_fill_mirroring",
+        "unicode_hex": "U+F0F40",
+        "character": "󰽀"
+    },
+    {
+        "name": "paintbrush_pointed_drop_fill_mirroring",
+        "unicode_hex": "U+F0F41",
+        "character": "󰽁"
+    },
+    {
+        "name": "paintbrush_pointed_drop_mirroring",
+        "unicode_hex": "U+F0F42",
+        "character": "󰽂"
+    },
+    {
+        "name": "paintbrush_doc_mirroring",
+        "unicode_hex": "U+F0F43",
+        "character": "󰽃"
     },
     {
         "name": "doc_text_badge_park_mirroring",
@@ -19140,6 +19335,36 @@
         "character": "󰽈"
     },
     {
+        "name": "psd_doc_mirroring",
+        "unicode_hex": "U+F0F49",
+        "character": "󰽉"
+    },
+    {
+        "name": "video_doc_mirroring",
+        "unicode_hex": "U+F0F4A",
+        "character": "󰽊"
+    },
+    {
+        "name": "gif_doc_mirroring",
+        "unicode_hex": "U+F0F4B",
+        "character": "󰽋"
+    },
+    {
+        "name": "skip_silence_fill_mirroring",
+        "unicode_hex": "U+F0F4C",
+        "character": "󰽌"
+    },
+    {
+        "name": "person_plus_wave_2_fill_mirroring",
+        "unicode_hex": "U+F0F4D",
+        "character": "󰽍"
+    },
+    {
+        "name": "list_badge_play_mirroring",
+        "unicode_hex": "U+F0F4E",
+        "character": "󰽎"
+    },
+    {
         "name": "person_wave_3_mirroring",
         "unicode_hex": "U+F0F4F",
         "character": "󰽏"
@@ -19165,9 +19390,49 @@
         "character": "󰽓"
     },
     {
+        "name": "book_badge_play_mirroring",
+        "unicode_hex": "U+F0F54",
+        "character": "󰽔"
+    },
+    {
+        "name": "envelope_badge_arrowshape_turn_up_right_fill_mirroring",
+        "unicode_hex": "U+F0F55",
+        "character": "󰽕"
+    },
+    {
+        "name": "AI_message_mirroring",
+        "unicode_hex": "U+F0F56",
+        "character": "󰽖"
+    },
+    {
+        "name": "double_signals_mirroring",
+        "unicode_hex": "U+F0F57",
+        "character": "󰽗"
+    },
+    {
+        "name": "list_checkmark_mirroring",
+        "unicode_hex": "U+F0F58",
+        "character": "󰽘"
+    },
+    {
         "name": "figure_roll_mirroring",
         "unicode_hex": "U+F0F59",
         "character": "󰽙"
+    },
+    {
+        "name": "square_grid_2x2_checkmark_topleft_fill_mirroring",
+        "unicode_hex": "U+F0F5A",
+        "character": "󰽚"
+    },
+    {
+        "name": "staircase_badge_clock_fill_mirroring",
+        "unicode_hex": "U+F0F5B",
+        "character": "󰽛"
+    },
+    {
+        "name": "phone_badge_plus_fill_mirroring",
+        "unicode_hex": "U+F0F5C",
+        "character": "󰽜"
     },
     {
         "name": "ellipsis_message_badge_circle_fill_mirroring",
@@ -19223,5 +19488,3835 @@
         "name": "text_character_square_mirroring",
         "unicode_hex": "U+F0F67",
         "character": "󰽧"
+    },
+    {
+        "name": "star_line_doc_fill_mirroring",
+        "unicode_hex": "U+F0F68",
+        "character": "󰽨"
+    },
+    {
+        "name": "quote_mirroring",
+        "unicode_hex": "U+F0F69",
+        "character": "󰽩"
+    },
+    {
+        "name": "checkmark_message_mirroring",
+        "unicode_hex": "U+F0F6A",
+        "character": "󰽪"
+    },
+    {
+        "name": "doc_text_badge_leaf_mirroring",
+        "unicode_hex": "U+F0F6B",
+        "character": "󰽫"
+    },
+    {
+        "name": "dynamic_shake_shot_mirroring",
+        "unicode_hex": "U+F0F6C",
+        "character": "󰽬"
+    },
+    {
+        "name": "e_video_fill_mirroring",
+        "unicode_hex": "U+F0F6D",
+        "character": "󰽭"
+    },
+    {
+        "name": "ellipsis_message_badge_circle_mirroring",
+        "unicode_hex": "U+F0F6E",
+        "character": "󰽮"
+    },
+    {
+        "name": "family_phone_wave_2_fill_mirroring",
+        "unicode_hex": "U+F0F6F",
+        "character": "󰽯"
+    },
+    {
+        "name": "figure_outdoor_cycle_circle_mirroring",
+        "unicode_hex": "U+F0F70",
+        "character": "󰽰"
+    },
+    {
+        "name": "list_book_mirroring",
+        "unicode_hex": "U+F0F71",
+        "character": "󰽱"
+    },
+    {
+        "name": "list_book_fill_mirroring",
+        "unicode_hex": "U+F0F72",
+        "character": "󰽲"
+    },
+    {
+        "name": "phone_badge_e_mirroring",
+        "unicode_hex": "U+F0F73",
+        "character": "󰽳"
+    },
+    {
+        "name": "phone_badge_e_fill_mirroring",
+        "unicode_hex": "U+F0F74",
+        "character": "󰽴"
+    },
+    {
+        "name": "phone_badge_gearshape_fill_mirroring",
+        "unicode_hex": "U+F0F75",
+        "character": "󰽵"
+    },
+    {
+        "name": "phone_badge_Hyacinth_satellite_fill_mirroring",
+        "unicode_hex": "U+F0F76",
+        "character": "󰽶"
+    },
+    {
+        "name": "phone_badge_waveform_1_fill_mirroring",
+        "unicode_hex": "U+F0F77",
+        "character": "󰽷"
+    },
+    {
+        "name": "phone_badge_waveform_3_fill_mirroring",
+        "unicode_hex": "U+F0F78",
+        "character": "󰽸"
+    },
+    {
+        "name": "rectangle_uphalf_inset_filled_arrowtriangle_left_mirroring",
+        "unicode_hex": "U+F0F79",
+        "character": "󰽹"
+    },
+    {
+        "name": "rectangle_uphalf_inset_filled_arrowtriangle_right_mirroring",
+        "unicode_hex": "U+F0F7A",
+        "character": "󰽺"
+    },
+    {
+        "name": "snapshot_slash_mirroring",
+        "unicode_hex": "U+F0F7B",
+        "character": "󰽻"
+    },
+    {
+        "name": "text_book_5_mirroring",
+        "unicode_hex": "U+F0F7C",
+        "character": "󰽼"
+    },
+    {
+        "name": "text_boundless_mirroring",
+        "unicode_hex": "U+F0F7D",
+        "character": "󰽽"
+    },
+    {
+        "name": "video_1_fill_mirroring",
+        "unicode_hex": "U+F0F7E",
+        "character": "󰽾"
+    },
+    {
+        "name": "video_2_fill_mirroring",
+        "unicode_hex": "U+F0F7F",
+        "character": "󰽿"
+    },
+    {
+        "name": "wave_bubble_badge_plus_mirroring",
+        "unicode_hex": "U+F0F80",
+        "character": "󰾀"
+    },
+    {
+        "name": "wave_bubble_fill_mirroring",
+        "unicode_hex": "U+F0F81",
+        "character": "󰾁"
+    },
+    {
+        "name": "wind_arrow_down_mirroring",
+        "unicode_hex": "U+F0F82",
+        "character": "󰾂"
+    },
+    {
+        "name": "statusbar_signal_short_mirroring",
+        "unicode_hex": "U+F0F83",
+        "character": "󰾃"
+    },
+    {
+        "name": "statusbar_signal_short_badge_R_mirroring",
+        "unicode_hex": "U+F0F84",
+        "character": "󰾄"
+    },
+    {
+        "name": "statusbar_signal_lang_mirroring",
+        "unicode_hex": "U+F0F85",
+        "character": "󰾅"
+    },
+    {
+        "name": "statusbar_signal_lang_badge_R_mirroring",
+        "unicode_hex": "U+F0F86",
+        "character": "󰾆"
+    },
+    {
+        "name": "statusbar_signal_lang_badge_skystone_mirroring",
+        "unicode_hex": "U+F0F87",
+        "character": "󰾇"
+    },
+    {
+        "name": "statusbar_signal_lang_left_bottom_data_mirroring",
+        "unicode_hex": "U+F0F88",
+        "character": "󰾈"
+    },
+    {
+        "name": "statusbar_signal_left_top_4G_plus_mirroring",
+        "unicode_hex": "U+F0F89",
+        "character": "󰾉"
+    },
+    {
+        "name": "statusbar_signal_left_top_5A_mirroring",
+        "unicode_hex": "U+F0F8A",
+        "character": "󰾊"
+    },
+    {
+        "name": "statusbar_signal_left_top_5G_mirroring",
+        "unicode_hex": "U+F0F8B",
+        "character": "󰾋"
+    },
+    {
+        "name": "statusbar_airplane_fill_mirroring",
+        "unicode_hex": "U+F0F8C",
+        "character": "󰾌"
+    },
+    {
+        "name": "statusbar_phone_badge_waveform_3_fill_mirroring",
+        "unicode_hex": "U+F0F8D",
+        "character": "󰾍"
+    },
+    {
+        "name": "statusbar_phone_fill_slash_mirroring",
+        "unicode_hex": "U+F0F8E",
+        "character": "󰾎"
+    },
+    {
+        "name": "statusbar_battery_mirroring",
+        "unicode_hex": "U+F0F8F",
+        "character": "󰾏"
+    },
+    {
+        "name": "statusbar_battery_100percent_mirroring",
+        "unicode_hex": "U+F0F90",
+        "character": "󰾐"
+    },
+    {
+        "name": "statusbar_battery_95percent_mirroring",
+        "unicode_hex": "U+F0F91",
+        "character": "󰾑"
+    },
+    {
+        "name": "statusbar_battery_90percent_mirroring",
+        "unicode_hex": "U+F0F92",
+        "character": "󰾒"
+    },
+    {
+        "name": "statusbar_battery_80percent_mirroring",
+        "unicode_hex": "U+F0F93",
+        "character": "󰾓"
+    },
+    {
+        "name": "statusbar_battery_70percent_mirroring",
+        "unicode_hex": "U+F0F94",
+        "character": "󰾔"
+    },
+    {
+        "name": "statusbar_battery_60percent_mirroring",
+        "unicode_hex": "U+F0F95",
+        "character": "󰾕"
+    },
+    {
+        "name": "statusbar_battery_50percent_mirroring",
+        "unicode_hex": "U+F0F96",
+        "character": "󰾖"
+    },
+    {
+        "name": "statusbar_battery_40percent_mirroring",
+        "unicode_hex": "U+F0F97",
+        "character": "󰾗"
+    },
+    {
+        "name": "statusbar_battery_30percent_mirroring",
+        "unicode_hex": "U+F0F98",
+        "character": "󰾘"
+    },
+    {
+        "name": "statusbar_battery_20percent_mirroring",
+        "unicode_hex": "U+F0F99",
+        "character": "󰾙"
+    },
+    {
+        "name": "statusbar_battery_10percent_mirroring",
+        "unicode_hex": "U+F0F9A",
+        "character": "󰾚"
+    },
+    {
+        "name": "statusbar_battery_5percent_mirroring",
+        "unicode_hex": "U+F0F9B",
+        "character": "󰾛"
+    },
+    {
+        "name": "statusbar_signal_left_top_4G_mirroring",
+        "unicode_hex": "U+F0F9C",
+        "character": "󰾜"
+    },
+    {
+        "name": "statusbar_signal_left_top_3G_mirroring",
+        "unicode_hex": "U+F0F9D",
+        "character": "󰾝"
+    },
+    {
+        "name": "statusbar_signal_left_top_2G_mirroring",
+        "unicode_hex": "U+F0F9E",
+        "character": "󰾞"
+    },
+    {
+        "name": "statusbar_signal_left_top_H_mirroring",
+        "unicode_hex": "U+F0F9F",
+        "character": "󰾟"
+    },
+    {
+        "name": "statusbar_signal_left_top_H_plus_mirroring",
+        "unicode_hex": "U+F0FA0",
+        "character": "󰾠"
+    },
+    {
+        "name": "statusbar_signal_left_top_X_mirroring",
+        "unicode_hex": "U+F0FA1",
+        "character": "󰾡"
+    },
+    {
+        "name": "figure_walk_zebra_stripes",
+        "unicode_hex": "U+F0FA2",
+        "character": "󰾢"
+    },
+    {
+        "name": "local_filled_circle",
+        "unicode_hex": "U+F0FA3",
+        "character": "󰾣"
+    },
+    {
+        "name": "camera_filled_circle",
+        "unicode_hex": "U+F0FA4",
+        "character": "󰾤"
+    },
+    {
+        "name": "arrowtriangle_down_circle_fill",
+        "unicode_hex": "U+F0FA5",
+        "character": "󰾥"
+    },
+    {
+        "name": "headlight_high_beam_slash",
+        "unicode_hex": "U+F0FA6",
+        "character": "󰾦"
+    },
+    {
+        "name": "scale_mark_long",
+        "unicode_hex": "U+F0FA7",
+        "character": "󰾧"
+    },
+    {
+        "name": "scale_mark_short",
+        "unicode_hex": "U+F0FA8",
+        "character": "󰾨"
+    },
+    {
+        "name": "ads_brakesignal",
+        "unicode_hex": "U+F0FA9",
+        "character": "󰾩"
+    },
+    {
+        "name": "K_points_fill",
+        "unicode_hex": "U+F0FAA",
+        "character": "󰾪"
+    },
+    {
+        "name": "star_folder",
+        "unicode_hex": "U+F0FAB",
+        "character": "󰾫"
+    },
+    {
+        "name": "star_folder_fill",
+        "unicode_hex": "U+F0FAC",
+        "character": "󰾬"
+    },
+    {
+        "name": "local_badge_one",
+        "unicode_hex": "U+F0FAD",
+        "character": "󰾭"
+    },
+    {
+        "name": "local_badge_one_slash",
+        "unicode_hex": "U+F0FAE",
+        "character": "󰾮"
+    },
+    {
+        "name": "route_other",
+        "unicode_hex": "U+F0FAF",
+        "character": "󰾯"
+    },
+    {
+        "name": "pencil_2b_tip_fill",
+        "unicode_hex": "U+F0FB0",
+        "character": "󰾰"
+    },
+    {
+        "name": "brush_tip_fill",
+        "unicode_hex": "U+F0FB1",
+        "character": "󰾱"
+    },
+    {
+        "name": "beautiful_pen_tip_fill",
+        "unicode_hex": "U+F0FB2",
+        "character": "󰾲"
+    },
+    {
+        "name": "stylus_and_scribble",
+        "unicode_hex": "U+F0FB3",
+        "character": "󰾳"
+    },
+    {
+        "name": "stylus_and_rectangle",
+        "unicode_hex": "U+F0FB4",
+        "character": "󰾴"
+    },
+    {
+        "name": "stylus_line",
+        "unicode_hex": "U+F0FB5",
+        "character": "󰾵"
+    },
+    {
+        "name": "stylus_wave_2_diagonal",
+        "unicode_hex": "U+F0FB6",
+        "character": "󰾶"
+    },
+    {
+        "name": "stylus_wave_2",
+        "unicode_hex": "U+F0FB7",
+        "character": "󰾷"
+    },
+    {
+        "name": "stylus",
+        "unicode_hex": "U+F0FB8",
+        "character": "󰾸"
+    },
+    {
+        "name": "hand_cut_and_paste",
+        "unicode_hex": "U+F0FB9",
+        "character": "󰾹"
+    },
+    {
+        "name": "rectangle_badge_location_north_up_left",
+        "unicode_hex": "U+F0FBA",
+        "character": "󰾺"
+    },
+    {
+        "name": "wubi_square_fill",
+        "unicode_hex": "U+F0FBC",
+        "character": "󰾼"
+    },
+    {
+        "name": "Korean_square_fill",
+        "unicode_hex": "U+F0FBD",
+        "character": "󰾽"
+    },
+    {
+        "name": "combination_square_fill",
+        "unicode_hex": "U+F0FBE",
+        "character": "󰾾"
+    },
+    {
+        "name": "Japanese_square_fill",
+        "unicode_hex": "U+F0FBF",
+        "character": "󰾿"
+    },
+    {
+        "name": "Italy_square_fill",
+        "unicode_hex": "U+F0FC0",
+        "character": "󰿀"
+    },
+    {
+        "name": "Malay_square_fill",
+        "unicode_hex": "U+F0FC1",
+        "character": "󰿁"
+    },
+    {
+        "name": "Hispanic_square_fill",
+        "unicode_hex": "U+F0FC2",
+        "character": "󰿂"
+    },
+    {
+        "name": "Turkish_square_fill",
+        "unicode_hex": "U+F0FC3",
+        "character": "󰿃"
+    },
+    {
+        "name": "Indonesian_square_fill",
+        "unicode_hex": "U+F0FC4",
+        "character": "󰿄"
+    },
+    {
+        "name": "French_square_fill",
+        "unicode_hex": "U+F0FC5",
+        "character": "󰿅"
+    },
+    {
+        "name": "Vietnamese_square_fill",
+        "unicode_hex": "U+F0FC6",
+        "character": "󰿆"
+    },
+    {
+        "name": "Russian_square_fill",
+        "unicode_hex": "U+F0FC7",
+        "character": "󰿇"
+    },
+    {
+        "name": "Spain_square_fill",
+        "unicode_hex": "U+F0FC8",
+        "character": "󰿈"
+    },
+    {
+        "name": "Filipino_square_fill",
+        "unicode_hex": "U+F0FC9",
+        "character": "󰿉"
+    },
+    {
+        "name": "German_square_fill",
+        "unicode_hex": "U+F0FCA",
+        "character": "󰿊"
+    },
+    {
+        "name": "star_flag_fill",
+        "unicode_hex": "U+F0FCB",
+        "character": "󰿋"
+    },
+    {
+        "name": "clover_fill",
+        "unicode_hex": "U+F0FCC",
+        "character": "󰿌"
+    },
+    {
+        "name": "three_rings_fill",
+        "unicode_hex": "U+F0FCD",
+        "character": "󰿍"
+    },
+    {
+        "name": "eye_slash_matebook_fill",
+        "unicode_hex": "U+F0FCF",
+        "character": "󰿏"
+    },
+    {
+        "name": "AI_recording_character",
+        "unicode_hex": "U+F0FD0",
+        "character": "󰿐"
+    },
+    {
+        "name": "play_square_stack_fill",
+        "unicode_hex": "U+F0FD1",
+        "character": "󰿑"
+    },
+    {
+        "name": "character_stroke",
+        "unicode_hex": "U+F0FD2",
+        "character": "󰿒"
+    },
+    {
+        "name": "AI_straighten_1",
+        "unicode_hex": "U+F0FD3",
+        "character": "󰿓"
+    },
+    {
+        "name": "title_character",
+        "unicode_hex": "U+F0FD4",
+        "character": "󰿔"
+    },
+    {
+        "name": "lightness",
+        "unicode_hex": "U+F0FD5",
+        "character": "󰿕"
+    },
+    {
+        "name": "hue_fill",
+        "unicode_hex": "U+F0FD6",
+        "character": "󰿖"
+    },
+    {
+        "name": "double_stereo",
+        "unicode_hex": "U+F0FD7",
+        "character": "󰿗"
+    },
+    {
+        "name": "paintbrush_pointed_drop_fill",
+        "unicode_hex": "U+F0FD8",
+        "character": "󰿘"
+    },
+    {
+        "name": "paintbrush_pointed_drop",
+        "unicode_hex": "U+F0FD9",
+        "character": "󰿙"
+    },
+    {
+        "name": "local_layer",
+        "unicode_hex": "U+F0FDA",
+        "character": "󰿚"
+    },
+    {
+        "name": "plus_layer",
+        "unicode_hex": "U+F0FDB",
+        "character": "󰿛"
+    },
+    {
+        "name": "arrow_down_layer",
+        "unicode_hex": "U+F0FDC",
+        "character": "󰿜"
+    },
+    {
+        "name": "rectangle_badge_plus",
+        "unicode_hex": "U+F0FDD",
+        "character": "󰿝"
+    },
+    {
+        "name": "canvas_adapt_screen",
+        "unicode_hex": "U+F0FDE",
+        "character": "󰿞"
+    },
+    {
+        "name": "character_arrow_down",
+        "unicode_hex": "U+F0FDF",
+        "character": "󰿟"
+    },
+    {
+        "name": "character_2",
+        "unicode_hex": "U+F0FE0",
+        "character": "󰿠"
+    },
+    {
+        "name": "character_on_character",
+        "unicode_hex": "U+F0FE1",
+        "character": "󰿡"
+    },
+    {
+        "name": "seal_carving",
+        "unicode_hex": "U+F0FE2",
+        "character": "󰿢"
+    },
+    {
+        "name": "seal_carving_fill",
+        "unicode_hex": "U+F0FE3",
+        "character": "󰿣"
+    },
+    {
+        "name": "paintbrush_doc",
+        "unicode_hex": "U+F0FE4",
+        "character": "󰿤"
+    },
+    {
+        "name": "psd_doc",
+        "unicode_hex": "U+F0FE5",
+        "character": "󰿥"
+    },
+    {
+        "name": "video_doc",
+        "unicode_hex": "U+F0FE6",
+        "character": "󰿦"
+    },
+    {
+        "name": "gif_doc",
+        "unicode_hex": "U+F0FE7",
+        "character": "󰿧"
+    },
+    {
+        "name": "light_mode",
+        "unicode_hex": "U+F0FE8",
+        "character": "󰿨"
+    },
+    {
+        "name": "left_key",
+        "unicode_hex": "U+F0FE9",
+        "character": "󰿩"
+    },
+    {
+        "name": "right_key",
+        "unicode_hex": "U+F0FEA",
+        "character": "󰿪"
+    },
+    {
+        "name": "power_key",
+        "unicode_hex": "U+F0FEB",
+        "character": "󰿫"
+    },
+    {
+        "name": "camera_lens_ball_fill",
+        "unicode_hex": "U+F0FEC",
+        "character": "󰿬"
+    },
+    {
+        "name": "exit_full_screen",
+        "unicode_hex": "U+F0FED",
+        "character": "󰿭"
+    },
+    {
+        "name": "menubar_rectangle",
+        "unicode_hex": "U+F0FEE",
+        "character": "󰿮"
+    },
+    {
+        "name": "moon_badge_checkmark",
+        "unicode_hex": "U+F0FEF",
+        "character": "󰿯"
+    },
+    {
+        "name": "AI_model",
+        "unicode_hex": "U+F0FF0",
+        "character": "󰿰"
+    },
+    {
+        "name": "AI_bright_slash",
+        "unicode_hex": "U+F0FF1",
+        "character": "󰿱"
+    },
+    {
+        "name": "ad_circle",
+        "unicode_hex": "U+F0FF2",
+        "character": "󰿲"
+    },
+    {
+        "name": "restore_all_items",
+        "unicode_hex": "U+F0FF3",
+        "character": "󰿳"
+    },
+    {
+        "name": "pc_and_worldclock_fill",
+        "unicode_hex": "U+F0FF4",
+        "character": "󰿴"
+    },
+    {
+        "name": "earphone_5889",
+        "unicode_hex": "U+F0FF5",
+        "character": "󰿵"
+    },
+    {
+        "name": "earphone_5889_fill",
+        "unicode_hex": "U+F0FF6",
+        "character": "󰿶"
+    },
+    {
+        "name": "Myanmar_square_fill",
+        "unicode_hex": "U+F0FF7",
+        "character": "󰿷"
+    },
+    {
+        "name": "Thai_square_fill",
+        "unicode_hex": "U+F0FF8",
+        "character": "󰿸"
+    },
+    {
+        "name": "Laos_square_fill",
+        "unicode_hex": "U+F0FF9",
+        "character": "󰿹"
+    },
+    {
+        "name": "Khmer_square_fill",
+        "unicode_hex": "U+F0FFA",
+        "character": "󰿺"
+    },
+    {
+        "name": "Arab_square_fill",
+        "unicode_hex": "U+F0FFB",
+        "character": "󰿻"
+    },
+    {
+        "name": "star_ellipse",
+        "unicode_hex": "U+F0FFC",
+        "character": "󰿼"
+    },
+    {
+        "name": "constellation_draw",
+        "unicode_hex": "U+F0FFD",
+        "character": "󰿽"
+    },
+    {
+        "name": "constellation_draw_slash",
+        "unicode_hex": "U+F0FFE",
+        "character": "󰿾"
+    },
+    {
+        "name": "small_head",
+        "unicode_hex": "U+F0FFF",
+        "character": "󰿿"
+    },
+    {
+        "name": "skin_tone_1",
+        "unicode_hex": "U+F1000",
+        "character": "󱀀"
+    },
+    {
+        "name": "hairline",
+        "unicode_hex": "U+F1001",
+        "character": "󱀁"
+    },
+    {
+        "name": "skinny_nose",
+        "unicode_hex": "U+F1002",
+        "character": "󱀂"
+    },
+    {
+        "name": "whiten",
+        "unicode_hex": "U+F1003",
+        "character": "󱀃"
+    },
+    {
+        "name": "AI_screenshot_slash",
+        "unicode_hex": "U+F1004",
+        "character": "󱀄"
+    },
+    {
+        "name": "motion_stabilization_2",
+        "unicode_hex": "U+F1005",
+        "character": "󱀅"
+    },
+    {
+        "name": "waveform_viewfinder",
+        "unicode_hex": "U+F1006",
+        "character": "󱀆"
+    },
+    {
+        "name": "stage_mode_circle_fill",
+        "unicode_hex": "U+F1007",
+        "character": "󱀇"
+    },
+    {
+        "name": "stage_mode_circle_slash",
+        "unicode_hex": "U+F1008",
+        "character": "󱀈"
+    },
+    {
+        "name": "moon_chases",
+        "unicode_hex": "U+F1009",
+        "character": "󱀉"
+    },
+    {
+        "name": "portrait_star",
+        "unicode_hex": "U+F100A",
+        "character": "󱀊"
+    },
+    {
+        "name": "arrow_down_circle_badge_exclamationmark",
+        "unicode_hex": "U+F100B",
+        "character": "󱀋"
+    },
+    {
+        "name": "alarm_gap",
+        "unicode_hex": "U+F100C",
+        "character": "󱀌"
+    },
+    {
+        "name": "list_badge_play",
+        "unicode_hex": "U+F100D",
+        "character": "󱀍"
+    },
+    {
+        "name": "book_badge_play",
+        "unicode_hex": "U+F100E",
+        "character": "󱀎"
+    },
+    {
+        "name": "double_speed",
+        "unicode_hex": "U+F100F",
+        "character": "󱀏"
+    },
+    {
+        "name": "envelope_badge_arrowshape_turn_up_right_fill",
+        "unicode_hex": "U+F1010",
+        "character": "󱀐"
+    },
+    {
+        "name": "inbox_fill",
+        "unicode_hex": "U+F1011",
+        "character": "󱀑"
+    },
+    {
+        "name": "arrow_down_left",
+        "unicode_hex": "U+F1012",
+        "character": "󱀒"
+    },
+    {
+        "name": "AI_deep_thinking",
+        "unicode_hex": "U+F1013",
+        "character": "󱀓"
+    },
+    {
+        "name": "AI_message",
+        "unicode_hex": "U+F1014",
+        "character": "󱀔"
+    },
+    {
+        "name": "local_and_rectangle_fill",
+        "unicode_hex": "U+F1015",
+        "character": "󱀕"
+    },
+    {
+        "name": "root_fill",
+        "unicode_hex": "U+F1016",
+        "character": "󱀖"
+    },
+    {
+        "name": "casual_selfie",
+        "unicode_hex": "U+F1017",
+        "character": "󱀗"
+    },
+    {
+        "name": "screen_rotation_1",
+        "unicode_hex": "U+F1018",
+        "character": "󱀘"
+    },
+    {
+        "name": "screen_rotation_2",
+        "unicode_hex": "U+F1019",
+        "character": "󱀙"
+    },
+    {
+        "name": "word_viewfinder",
+        "unicode_hex": "U+F101A",
+        "character": "󱀚"
+    },
+    {
+        "name": "music_round_triangle_fill",
+        "unicode_hex": "U+F101B",
+        "character": "󱀛"
+    },
+    {
+        "name": "person_badge_gearshape",
+        "unicode_hex": "U+F101C",
+        "character": "󱀜"
+    },
+    {
+        "name": "screen_mirror_fill",
+        "unicode_hex": "U+F101D",
+        "character": "󱀝"
+    },
+    {
+        "name": "screen_expansion_fill",
+        "unicode_hex": "U+F101E",
+        "character": "󱀞"
+    },
+    {
+        "name": "screen_mirror",
+        "unicode_hex": "U+F101F",
+        "character": "󱀟"
+    },
+    {
+        "name": "screen_expansion",
+        "unicode_hex": "U+F1020",
+        "character": "󱀠"
+    },
+    {
+        "name": "double_signals",
+        "unicode_hex": "U+F1021",
+        "character": "󱀡"
+    },
+    {
+        "name": "list_checkmark",
+        "unicode_hex": "U+F1022",
+        "character": "󱀢"
+    },
+    {
+        "name": "clock_badge_gearshape_fill",
+        "unicode_hex": "U+F1023",
+        "character": "󱀣"
+    },
+    {
+        "name": "square_grid_2x2_checkmark_topleft_fill",
+        "unicode_hex": "U+F1024",
+        "character": "󱀤"
+    },
+    {
+        "name": "umbrella_phone_fill",
+        "unicode_hex": "U+F1025",
+        "character": "󱀥"
+    },
+    {
+        "name": "circle_and_plus",
+        "unicode_hex": "U+F1026",
+        "character": "󱀦"
+    },
+    {
+        "name": "local_badge_checkmark_fill",
+        "unicode_hex": "U+F1027",
+        "character": "󱀧"
+    },
+    {
+        "name": "phone_badge_clock_fill",
+        "unicode_hex": "U+F1028",
+        "character": "󱀨"
+    },
+    {
+        "name": "staircase_badge_clock_fill",
+        "unicode_hex": "U+F1029",
+        "character": "󱀩"
+    },
+    {
+        "name": "person_badge_data_fill",
+        "unicode_hex": "U+F102A",
+        "character": "󱀪"
+    },
+    {
+        "name": "person_badge_data",
+        "unicode_hex": "U+F102B",
+        "character": "󱀫"
+    },
+    {
+        "name": "phone_badge_plus_fill",
+        "unicode_hex": "U+F102C",
+        "character": "󱀬"
+    },
+    {
+        "name": "avg_average_speed_fill",
+        "unicode_hex": "U+F102D",
+        "character": "󱀭"
+    },
+    {
+        "name": "max_average_speed_fill",
+        "unicode_hex": "U+F102E",
+        "character": "󱀮"
+    },
+    {
+        "name": "avg_golfclub_ball",
+        "unicode_hex": "U+F102F",
+        "character": "󱀯"
+    },
+    {
+        "name": "avg_push_rod",
+        "unicode_hex": "U+F1030",
+        "character": "󱀰"
+    },
+    {
+        "name": "push_rod_fill",
+        "unicode_hex": "U+F1031",
+        "character": "󱀱"
+    },
+    {
+        "name": "average_increase_fill",
+        "unicode_hex": "U+F1032",
+        "character": "󱀲"
+    },
+    {
+        "name": "average_decline_fill",
+        "unicode_hex": "U+F1033",
+        "character": "󱀳"
+    },
+    {
+        "name": "maximum_depth_fill",
+        "unicode_hex": "U+F1034",
+        "character": "󱀴"
+    },
+    {
+        "name": "water_type_fill",
+        "unicode_hex": "U+F1035",
+        "character": "󱀵"
+    },
+    {
+        "name": "upper_lane_rate_fill",
+        "unicode_hex": "U+F1036",
+        "character": "󱀶"
+    },
+    {
+        "name": "single_shaker_rope_skipping_fill",
+        "unicode_hex": "U+F1037",
+        "character": "󱀷"
+    },
+    {
+        "name": "double_shaker_rope_skipping_fill",
+        "unicode_hex": "U+F1038",
+        "character": "󱀸"
+    },
+    {
+        "name": "triple_shaker_rope_skipping_fill",
+        "unicode_hex": "U+F1039",
+        "character": "󱀹"
+    },
+    {
+        "name": "golf_hole_locations_fill",
+        "unicode_hex": "U+F103A",
+        "character": "󱀺"
+    },
+    {
+        "name": "diving_time_fill",
+        "unicode_hex": "U+F103B",
+        "character": "󱀻"
+    },
+    {
+        "name": "figure_basketball_avg_hang_time",
+        "unicode_hex": "U+F103C",
+        "character": "󱀼"
+    },
+    {
+        "name": "figure_basketball_vertical_jump_height",
+        "unicode_hex": "U+F103D",
+        "character": "󱀽"
+    },
+    {
+        "name": "strokes_fill",
+        "unicode_hex": "U+F103E",
+        "character": "󱀾"
+    },
+    {
+        "name": "muscle_mass_fill",
+        "unicode_hex": "U+F103F",
+        "character": "󱀿"
+    },
+    {
+        "name": "square_on_square_fill",
+        "unicode_hex": "U+F1040",
+        "character": "󱁀"
+    },
+    {
+        "name": "peak_weigh_fill",
+        "unicode_hex": "U+F1041",
+        "character": "󱁁"
+    },
+    {
+        "name": "star_line_doc_fill",
+        "unicode_hex": "U+F1042",
+        "character": "󱁂"
+    },
+    {
+        "name": "star_shield_fill",
+        "unicode_hex": "U+F1043",
+        "character": "󱁃"
+    },
+    {
+        "name": "data_proportion_fill",
+        "unicode_hex": "U+F1044",
+        "character": "󱁄"
+    },
+    {
+        "name": "front_recording",
+        "unicode_hex": "U+F1045",
+        "character": "󱁅"
+    },
+    {
+        "name": "rear_recording",
+        "unicode_hex": "U+F1046",
+        "character": "󱁆"
+    },
+    {
+        "name": "ear_filled_wave_2_outward",
+        "unicode_hex": "U+F1047",
+        "character": "󱁇"
+    },
+    {
+        "name": "hand_zoom_in",
+        "unicode_hex": "U+F1048",
+        "character": "󱁈"
+    },
+    {
+        "name": "text_boundless",
+        "unicode_hex": "U+F1049",
+        "character": "󱁉"
+    },
+    {
+        "name": "wave_bubble_fill",
+        "unicode_hex": "U+F104A",
+        "character": "󱁊"
+    },
+    {
+        "name": "wave_bubble_badge_plus",
+        "unicode_hex": "U+F104B",
+        "character": "󱁋"
+    },
+    {
+        "name": "repeat_slash",
+        "unicode_hex": "U+F104C",
+        "character": "󱁌"
+    },
+    {
+        "name": "figure",
+        "unicode_hex": "U+F104D",
+        "character": "󱁍"
+    },
+    {
+        "name": "rectangle_portrait",
+        "unicode_hex": "U+F104E",
+        "character": "󱁎"
+    },
+    {
+        "name": "square_split_2x1_dash",
+        "unicode_hex": "U+F104F",
+        "character": "󱁏"
+    },
+    {
+        "name": "rectangle_split_3x1_dash",
+        "unicode_hex": "U+F1050",
+        "character": "󱁐"
+    },
+    {
+        "name": "eye_badge_star",
+        "unicode_hex": "U+F1051",
+        "character": "󱁑"
+    },
+    {
+        "name": "eye_badge_clock",
+        "unicode_hex": "U+F1052",
+        "character": "󱁒"
+    },
+    {
+        "name": "soft_light_eye_protection_lamp",
+        "unicode_hex": "U+F1053",
+        "character": "󱁓"
+    },
+    {
+        "name": "nearlink_arrowtriangle_2_inward",
+        "unicode_hex": "U+F1054",
+        "character": "󱁔"
+    },
+    {
+        "name": "forum",
+        "unicode_hex": "U+F1055",
+        "character": "󱁕"
+    },
+    {
+        "name": "local_slash",
+        "unicode_hex": "U+F1056",
+        "character": "󱁖"
+    },
+    {
+        "name": "camera_slash",
+        "unicode_hex": "U+F1057",
+        "character": "󱁗"
+    },
+    {
+        "name": "cookie_slash",
+        "unicode_hex": "U+F1058",
+        "character": "󱁘"
+    },
+    {
+        "name": "code_slash",
+        "unicode_hex": "U+F1059",
+        "character": "󱁙"
+    },
+    {
+        "name": "arrow_right_up_and_square_slash",
+        "unicode_hex": "U+F105A",
+        "character": "󱁚"
+    },
+    {
+        "name": "tv_and_rectangle_portrait_slash",
+        "unicode_hex": "U+F105B",
+        "character": "󱁛"
+    },
+    {
+        "name": "hand",
+        "unicode_hex": "U+F105C",
+        "character": "󱁜"
+    },
+    {
+        "name": "indie_game_fill",
+        "unicode_hex": "U+F105D",
+        "character": "󱁝"
+    },
+    {
+        "name": "indie_game",
+        "unicode_hex": "U+F105E",
+        "character": "󱁞"
+    },
+    {
+        "name": "card_board_game_fill",
+        "unicode_hex": "U+F105F",
+        "character": "󱁟"
+    },
+    {
+        "name": "beacon_tower_fill",
+        "unicode_hex": "U+F1060",
+        "character": "󱁠"
+    },
+    {
+        "name": "sword_2_fill",
+        "unicode_hex": "U+F1061",
+        "character": "󱁡"
+    },
+    {
+        "name": "dimensional_fantasy_fill",
+        "unicode_hex": "U+F1062",
+        "character": "󱁢"
+    },
+    {
+        "name": "wooden_fish_fill",
+        "unicode_hex": "U+F1063",
+        "character": "󱁣"
+    },
+    {
+        "name": "kaleidoscope_fill",
+        "unicode_hex": "U+F1064",
+        "character": "󱁤"
+    },
+    {
+        "name": "game_store_fill",
+        "unicode_hex": "U+F1065",
+        "character": "󱁥"
+    },
+    {
+        "name": "joystick_fill",
+        "unicode_hex": "U+F1066",
+        "character": "󱁦"
+    },
+    {
+        "name": "mouse_right_click_perspective",
+        "unicode_hex": "U+F1067",
+        "character": "󱁧"
+    },
+    {
+        "name": "keyboard_viewfinder",
+        "unicode_hex": "U+F1068",
+        "character": "󱁨"
+    },
+    {
+        "name": "sight_key",
+        "unicode_hex": "U+F1069",
+        "character": "󱁩"
+    },
+    {
+        "name": "skill_key",
+        "unicode_hex": "U+F106A",
+        "character": "󱁪"
+    },
+    {
+        "name": "mouse_right_click_move",
+        "unicode_hex": "U+F106B",
+        "character": "󱁫"
+    },
+    {
+        "name": "keyboard_move",
+        "unicode_hex": "U+F106C",
+        "character": "󱁬"
+    },
+    {
+        "name": "text_book_5",
+        "unicode_hex": "U+F106D",
+        "character": "󱁭"
+    },
+    {
+        "name": "list_book",
+        "unicode_hex": "U+F106E",
+        "character": "󱁮"
+    },
+    {
+        "name": "list_book_fill",
+        "unicode_hex": "U+F106F",
+        "character": "󱁯"
+    },
+    {
+        "name": "percent_flower_pattern",
+        "unicode_hex": "U+F1070",
+        "character": "󱁰"
+    },
+    {
+        "name": "AI_livephoto",
+        "unicode_hex": "U+F1071",
+        "character": "󱁱"
+    },
+    {
+        "name": "AI_livephoto_slash",
+        "unicode_hex": "U+F1072",
+        "character": "󱁲"
+    },
+    {
+        "name": "arrow_counterclockwise_clock_fill",
+        "unicode_hex": "U+F1073",
+        "character": "󱁳"
+    },
+    {
+        "name": "person_2_badge_checkmark_shield_fill",
+        "unicode_hex": "U+F1074",
+        "character": "󱁴"
+    },
+    {
+        "name": "hourglass_badge_gearshape_fill",
+        "unicode_hex": "U+F1075",
+        "character": "󱁵"
+    },
+    {
+        "name": "children_2",
+        "unicode_hex": "U+F1076",
+        "character": "󱁶"
+    },
+    {
+        "name": "doc_text_badge_leaf",
+        "unicode_hex": "U+F1077",
+        "character": "󱁷"
+    },
+    {
+        "name": "color_tone_2",
+        "unicode_hex": "U+F1078",
+        "character": "󱁸"
+    },
+    {
+        "name": "cloud_and_sun_filled_circle_slash",
+        "unicode_hex": "U+F1079",
+        "character": "󱁹"
+    },
+    {
+        "name": "cloud_and_sun_circle_fill",
+        "unicode_hex": "U+F107A",
+        "character": "󱁺"
+    },
+    {
+        "name": "portrait_filled_circle_slash",
+        "unicode_hex": "U+F107B",
+        "character": "󱁻"
+    },
+    {
+        "name": "portrait_circle_fill",
+        "unicode_hex": "U+F107C",
+        "character": "󱁼"
+    },
+    {
+        "name": "sunset_circle_slash",
+        "unicode_hex": "U+F107D",
+        "character": "󱁽"
+    },
+    {
+        "name": "sunset_circle_fill",
+        "unicode_hex": "U+F107E",
+        "character": "󱁾"
+    },
+    {
+        "name": "fork_knife_circle_fill_slash",
+        "unicode_hex": "U+F107F",
+        "character": "󱁿"
+    },
+    {
+        "name": "fork_knife_circle_fill",
+        "unicode_hex": "U+F1080",
+        "character": "󱂀"
+    },
+    {
+        "name": "cinematic_style_log_slash",
+        "unicode_hex": "U+F1081",
+        "character": "󱂁"
+    },
+    {
+        "name": "cinematic_style_log",
+        "unicode_hex": "U+F1082",
+        "character": "󱂂"
+    },
+    {
+        "name": "motion_stabilization_2_slash",
+        "unicode_hex": "U+F1083",
+        "character": "󱂃"
+    },
+    {
+        "name": "night_long_exposure_slash",
+        "unicode_hex": "U+F1084",
+        "character": "󱂄"
+    },
+    {
+        "name": "night_long_exposure_5s",
+        "unicode_hex": "U+F1085",
+        "character": "󱂅"
+    },
+    {
+        "name": "night_long_exposure_4s",
+        "unicode_hex": "U+F1086",
+        "character": "󱂆"
+    },
+    {
+        "name": "night_long_exposure_6s",
+        "unicode_hex": "U+F1087",
+        "character": "󱂇"
+    },
+    {
+        "name": "tone_slash",
+        "unicode_hex": "U+F1088",
+        "character": "󱂈"
+    },
+    {
+        "name": "waveform_viewfinder_slash",
+        "unicode_hex": "U+F1089",
+        "character": "󱂉"
+    },
+    {
+        "name": "beauty_slash",
+        "unicode_hex": "U+F108A",
+        "character": "󱂊"
+    },
+    {
+        "name": "style_fill",
+        "unicode_hex": "U+F108B",
+        "character": "󱂋"
+    },
+    {
+        "name": "style_slash",
+        "unicode_hex": "U+F108C",
+        "character": "󱂌"
+    },
+    {
+        "name": "style",
+        "unicode_hex": "U+F108D",
+        "character": "󱂍"
+    },
+    {
+        "name": "night_long_exposure_1s",
+        "unicode_hex": "U+F108E",
+        "character": "󱂎"
+    },
+    {
+        "name": "night_long_exposure_3s",
+        "unicode_hex": "U+F108F",
+        "character": "󱂏"
+    },
+    {
+        "name": "night_long_exposure_2s",
+        "unicode_hex": "U+F1090",
+        "character": "󱂐"
+    },
+    {
+        "name": "make_video",
+        "unicode_hex": "U+F1091",
+        "character": "󱂑"
+    },
+    {
+        "name": "snapshot_slash",
+        "unicode_hex": "U+F1092",
+        "character": "󱂒"
+    },
+    {
+        "name": "virtual_background_slash",
+        "unicode_hex": "U+F1093",
+        "character": "󱂓"
+    },
+    {
+        "name": "satellite_map_slash",
+        "unicode_hex": "U+F1094",
+        "character": "󱂔"
+    },
+    {
+        "name": "phone_badge_waveform_1_fill",
+        "unicode_hex": "U+F1095",
+        "character": "󱂕"
+    },
+    {
+        "name": "phone_badge_waveform_3_fill",
+        "unicode_hex": "U+F1096",
+        "character": "󱂖"
+    },
+    {
+        "name": "dynamic_shake_shot",
+        "unicode_hex": "U+F1097",
+        "character": "󱂗"
+    },
+    {
+        "name": "dot_viewfinder",
+        "unicode_hex": "U+F1099",
+        "character": "󱂙"
+    },
+    {
+        "name": "wind_arrow_down",
+        "unicode_hex": "U+F109A",
+        "character": "󱂚"
+    },
+    {
+        "name": "rectangle_uphalf_inset_filled_arrowtriangle_right",
+        "unicode_hex": "U+F109B",
+        "character": "󱂛"
+    },
+    {
+        "name": "family_slash",
+        "unicode_hex": "U+F109C",
+        "character": "󱂜"
+    },
+    {
+        "name": "family_arrow_down",
+        "unicode_hex": "U+F109D",
+        "character": "󱂝"
+    },
+    {
+        "name": "family",
+        "unicode_hex": "U+F109E",
+        "character": "󱂞"
+    },
+    {
+        "name": "star_portrait",
+        "unicode_hex": "U+F109F",
+        "character": "󱂟"
+    },
+    {
+        "name": "rectangle_portrait_arrowtriangle_2_outward",
+        "unicode_hex": "U+F10A0",
+        "character": "󱂠"
+    },
+    {
+        "name": "arrowtriangle_2_inward_square",
+        "unicode_hex": "U+F10A1",
+        "character": "󱂡"
+    },
+    {
+        "name": "camera_macro_2_circle_fill",
+        "unicode_hex": "U+F10A2",
+        "character": "󱂢"
+    },
+    {
+        "name": "mic_fill_waves_left_and_right",
+        "unicode_hex": "U+F10A3",
+        "character": "󱂣"
+    },
+    {
+        "name": "penglai_mode",
+        "unicode_hex": "U+F10A4",
+        "character": "󱂤"
+    },
+    {
+        "name": "hail_1",
+        "unicode_hex": "U+F10A6",
+        "character": "󱂦"
+    },
+    {
+        "name": "sakura_fill",
+        "unicode_hex": "U+F10A7",
+        "character": "󱂧"
+    },
+    {
+        "name": "dot_radiowaves",
+        "unicode_hex": "U+F10A8",
+        "character": "󱂨"
+    },
+    {
+        "name": "Hyacinth_satellite_fill",
+        "unicode_hex": "U+F10A9",
+        "character": "󱂩"
+    },
+    {
+        "name": "phone_badge_Hyacinth_satellite_fill",
+        "unicode_hex": "U+F10AA",
+        "character": "󱂪"
+    },
+    {
+        "name": "circle_fill_half",
+        "unicode_hex": "U+F10AB",
+        "character": "󱂫"
+    },
+    {
+        "name": "checkmark_message",
+        "unicode_hex": "U+F10AC",
+        "character": "󱂬"
+    },
+    {
+        "name": "ellipsis_message_badge_circle",
+        "unicode_hex": "U+F10AD",
+        "character": "󱂭"
+    },
+    {
+        "name": "phone_badge_e_fill",
+        "unicode_hex": "U+F10AE",
+        "character": "󱂮"
+    },
+    {
+        "name": "phone_badge_e",
+        "unicode_hex": "U+F10AF",
+        "character": "󱂯"
+    },
+    {
+        "name": "e_video_fill",
+        "unicode_hex": "U+F10B0",
+        "character": "󱂰"
+    },
+    {
+        "name": "e_simcard_fill",
+        "unicode_hex": "U+F10B1",
+        "character": "󱂱"
+    },
+    {
+        "name": "simcard_1_and_simcard_e_fill",
+        "unicode_hex": "U+F10B2",
+        "character": "󱂲"
+    },
+    {
+        "name": "computer_share_fill",
+        "unicode_hex": "U+F10B3",
+        "character": "󱂳"
+    },
+    {
+        "name": "simcard_2_and_simcard_e_fill",
+        "unicode_hex": "U+F10B4",
+        "character": "󱂴"
+    },
+    {
+        "name": "simcard_e_and_simcard_2_fill",
+        "unicode_hex": "U+F10B5",
+        "character": "󱂵"
+    },
+    {
+        "name": "simcard_e_and_simcard_1_fill",
+        "unicode_hex": "U+F10B6",
+        "character": "󱂶"
+    },
+    {
+        "name": "box_ellipsis_message_filled",
+        "unicode_hex": "U+F10B7",
+        "character": "󱂷"
+    },
+    {
+        "name": "video_1_fill",
+        "unicode_hex": "U+F10B8",
+        "character": "󱂸"
+    },
+    {
+        "name": "video_2_fill",
+        "unicode_hex": "U+F10B9",
+        "character": "󱂹"
+    },
+    {
+        "name": "phone_person_3_fill",
+        "unicode_hex": "U+F10BA",
+        "character": "󱂺"
+    },
+    {
+        "name": "family_phone_wave_2_fill",
+        "unicode_hex": "U+F10BB",
+        "character": "󱂻"
+    },
+    {
+        "name": "phone_message_fill",
+        "unicode_hex": "U+F10BC",
+        "character": "󱂼"
+    },
+    {
+        "name": "service_message_fill",
+        "unicode_hex": "U+F10BD",
+        "character": "󱂽"
+    },
+    {
+        "name": "content_share_fill",
+        "unicode_hex": "U+F10BE",
+        "character": "󱂾"
+    },
+    {
+        "name": "digital_human_fill",
+        "unicode_hex": "U+F10BF",
+        "character": "󱂿"
+    },
+    {
+        "name": "box_ellipsis_message_fill",
+        "unicode_hex": "U+F10C0",
+        "character": "󱃀"
+    },
+    {
+        "name": "bolt_power_bank_fill",
+        "unicode_hex": "U+F10C1",
+        "character": "󱃁"
+    },
+    {
+        "name": "move_spatial",
+        "unicode_hex": "U+F10C2",
+        "character": "󱃂"
+    },
+    {
+        "name": "move_spatial_slash",
+        "unicode_hex": "U+F10C3",
+        "character": "󱃃"
+    },
+    {
+        "name": "earphone_case_11",
+        "unicode_hex": "U+F10C4",
+        "character": "󱃄"
+    },
+    {
+        "name": "person_2_badge_flag_fill",
+        "unicode_hex": "U+F10C5",
+        "character": "󱃅"
+    },
+    {
+        "name": "bolt_filled_rectangle_portrait",
+        "unicode_hex": "U+F10C6",
+        "character": "󱃆"
+    },
+    {
+        "name": "avg_bolt_filled_on_circle",
+        "unicode_hex": "U+F10C7",
+        "character": "󱃇"
+    },
+    {
+        "name": "max_filled_on_circle",
+        "unicode_hex": "U+F10C8",
+        "character": "󱃈"
+    },
+    {
+        "name": "max_bolt_filled_rectangle_portrait",
+        "unicode_hex": "U+F10C9",
+        "character": "󱃉"
+    },
+    {
+        "name": "avg_bolt_filled_rectangle_portrait",
+        "unicode_hex": "U+F10CA",
+        "character": "󱃊"
+    },
+    {
+        "name": "rice_badge_clock",
+        "unicode_hex": "U+F10CB",
+        "character": "󱃋"
+    },
+    {
+        "name": "wheel",
+        "unicode_hex": "U+F10CC",
+        "character": "󱃌"
+    },
+    {
+        "name": "curve_4_clock_fill",
+        "unicode_hex": "U+F10CD",
+        "character": "󱃍"
+    },
+    {
+        "name": "fancy_rope_skipping_fill",
+        "unicode_hex": "U+F10CE",
+        "character": "󱃎"
+    },
+    {
+        "name": "treadmill_1",
+        "unicode_hex": "U+F10CF",
+        "character": "󱃏"
+    },
+    {
+        "name": "sos_watch",
+        "unicode_hex": "U+F10D0",
+        "character": "󱃐"
+    },
+    {
+        "name": "matching_gestures",
+        "unicode_hex": "U+F10D1",
+        "character": "󱃑"
+    },
+    {
+        "name": "calendar_001",
+        "unicode_hex": "U+F10D2",
+        "character": "󱃒"
+    },
+    {
+        "name": "calendar_001_fill",
+        "unicode_hex": "U+F10D3",
+        "character": "󱃓"
+    },
+    {
+        "name": "simcard_2_arrow_2_squarepath",
+        "unicode_hex": "U+F10D4",
+        "character": "󱃔"
+    },
+    {
+        "name": "person_badge_star",
+        "unicode_hex": "U+F10D5",
+        "character": "󱃕"
+    },
+    {
+        "name": "ear_badge_checkmark_shield",
+        "unicode_hex": "U+F10D6",
+        "character": "󱃖"
+    },
+    {
+        "name": "xmark_local",
+        "unicode_hex": "U+F10D7",
+        "character": "󱃗"
+    },
+    {
+        "name": "local_badge_gearshape",
+        "unicode_hex": "U+F10D9",
+        "character": "󱃙"
+    },
+    {
+        "name": "phone_badge_gearshape_fill",
+        "unicode_hex": "U+F10DA",
+        "character": "󱃚"
+    },
+    {
+        "name": "picture_badge_cloud_fill",
+        "unicode_hex": "U+F10DB",
+        "character": "󱃛"
+    },
+    {
+        "name": "watch_filled_viewfinder",
+        "unicode_hex": "U+F10DC",
+        "character": "󱃜"
+    },
+    {
+        "name": "watch_badge_yuansign_fill",
+        "unicode_hex": "U+F10DD",
+        "character": "󱃝"
+    },
+    {
+        "name": "course_fill",
+        "unicode_hex": "U+F10DE",
+        "character": "󱃞"
+    },
+    {
+        "name": "face_smiling_plus",
+        "unicode_hex": "U+F10DF",
+        "character": "󱃟"
+    },
+    {
+        "name": "car_qrcode",
+        "unicode_hex": "U+F10E0",
+        "character": "󱃠"
+    },
+    {
+        "name": "try_rectangle_portrait_badge_clock",
+        "unicode_hex": "U+F10E1",
+        "character": "󱃡"
+    },
+    {
+        "name": "figure_outdoor_cycle_circle",
+        "unicode_hex": "U+F10E2",
+        "character": "󱃢"
+    },
+    {
+        "name": "carseat_left_heat_waves_fill",
+        "unicode_hex": "U+F10E3",
+        "character": "󱃣"
+    },
+    {
+        "name": "carseat_left_fan_fill",
+        "unicode_hex": "U+F10E4",
+        "character": "󱃤"
+    },
+    {
+        "name": "carseat_left_massage_fill",
+        "unicode_hex": "U+F10E5",
+        "character": "󱃥"
+    },
+    {
+        "name": "carseat_left_massage_heat_waves_fill",
+        "unicode_hex": "U+F10E6",
+        "character": "󱃦"
+    },
+    {
+        "name": "carseat_left_massage_fan_fill",
+        "unicode_hex": "U+F10E7",
+        "character": "󱃧"
+    },
+    {
+        "name": "HUD_height_adjustment",
+        "unicode_hex": "U+F10E8",
+        "character": "󱃨"
+    },
+    {
+        "name": "windshield_front_and_heat_waves_auto",
+        "unicode_hex": "U+F10E9",
+        "character": "󱃩"
+    },
+    {
+        "name": "windshield_front_and_heat_waves_auto_en",
+        "unicode_hex": "U+F10EA",
+        "character": "󱃪"
+    },
+    {
+        "name": "owl",
+        "unicode_hex": "U+F10EB",
+        "character": "󱃫"
+    },
+    {
+        "name": "car_suv_sleep",
+        "unicode_hex": "U+F10EC",
+        "character": "󱃬"
+    },
+    {
+        "name": "arrow_left_and_square",
+        "unicode_hex": "U+F10ED",
+        "character": "󱃭"
+    },
+    {
+        "name": "knob",
+        "unicode_hex": "U+F10EE",
+        "character": "󱃮"
+    },
+    {
+        "name": "platform_step",
+        "unicode_hex": "U+F10EF",
+        "character": "󱃯"
+    },
+    {
+        "name": "carseat_right_steering_wheel",
+        "unicode_hex": "U+F10F0",
+        "character": "󱃰"
+    },
+    {
+        "name": "carseat_left_1",
+        "unicode_hex": "U+F10F1",
+        "character": "󱃱"
+    },
+    {
+        "name": "carseat_left_2",
+        "unicode_hex": "U+F10F2",
+        "character": "󱃲"
+    },
+    {
+        "name": "carseat_left_3",
+        "unicode_hex": "U+F10F3",
+        "character": "󱃳"
+    },
+    {
+        "name": "headrest_mode",
+        "unicode_hex": "U+F10F4",
+        "character": "󱃴"
+    },
+    {
+        "name": "car_side_front_open_fill",
+        "unicode_hex": "U+F10F5",
+        "character": "󱃵"
+    },
+    {
+        "name": "car_side_rear_open_1_fill",
+        "unicode_hex": "U+F10F6",
+        "character": "󱃶"
+    },
+    {
+        "name": "car_distance_fill",
+        "unicode_hex": "U+F10F7",
+        "character": "󱃷"
+    },
+    {
+        "name": "car_top_door_front_left_and_front_right_open_fill",
+        "unicode_hex": "U+F10F8",
+        "character": "󱃸"
+    },
+    {
+        "name": "curtain_half_filled",
+        "unicode_hex": "U+F10F9",
+        "character": "󱃹"
+    },
+    {
+        "name": "license_plate_fill",
+        "unicode_hex": "U+F10FA",
+        "character": "󱃺"
+    },
+    {
+        "name": "view_3D_fill",
+        "unicode_hex": "U+F10FB",
+        "character": "󱃻"
+    },
+    {
+        "name": "chair_lounge_fill",
+        "unicode_hex": "U+F10FC",
+        "character": "󱃼"
+    },
+    {
+        "name": "DLP_light",
+        "unicode_hex": "U+F10FD",
+        "character": "󱃽"
+    },
+    {
+        "name": "car_top_door_open",
+        "unicode_hex": "U+F10FE",
+        "character": "󱃾"
+    },
+    {
+        "name": "ISD_light",
+        "unicode_hex": "U+F10FF",
+        "character": "󱃿"
+    },
+    {
+        "name": "car_top_door_front_left_open_fill",
+        "unicode_hex": "U+F1100",
+        "character": "󱄀"
+    },
+    {
+        "name": "car_top_door_front_right_open_fill",
+        "unicode_hex": "U+F1101",
+        "character": "󱄁"
+    },
+    {
+        "name": "car_top_door_rear_left_open_fill",
+        "unicode_hex": "U+F1102",
+        "character": "󱄂"
+    },
+    {
+        "name": "car_top_door_rear_right_open_fill",
+        "unicode_hex": "U+F1103",
+        "character": "󱄃"
+    },
+    {
+        "name": "carseat_right_heat_waves_fill",
+        "unicode_hex": "U+F1104",
+        "character": "󱄄"
+    },
+    {
+        "name": "carseat_right_massage_heat_waves_fill",
+        "unicode_hex": "U+F1105",
+        "character": "󱄅"
+    },
+    {
+        "name": "carseat_right_massage_fan_fill",
+        "unicode_hex": "U+F1106",
+        "character": "󱄆"
+    },
+    {
+        "name": "carseat_right_massage_fill",
+        "unicode_hex": "U+F1107",
+        "character": "󱄇"
+    },
+    {
+        "name": "carseat_right_fan_fill",
+        "unicode_hex": "U+F1108",
+        "character": "󱄈"
+    },
+    {
+        "name": "car_ac_purifying",
+        "unicode_hex": "U+F1109",
+        "character": "󱄉"
+    },
+    {
+        "name": "car_ac_purifying_en",
+        "unicode_hex": "U+F110A",
+        "character": "󱄊"
+    },
+    {
+        "name": "car_fragrance",
+        "unicode_hex": "U+F110B",
+        "character": "󱄋"
+    },
+    {
+        "name": "figure_walk_light",
+        "unicode_hex": "U+F110C",
+        "character": "󱄌"
+    },
+    {
+        "name": "auto_brakesignal_fill",
+        "unicode_hex": "U+F110D",
+        "character": "󱄍"
+    },
+    {
+        "name": "windshield_front_and_heat_waves_fill",
+        "unicode_hex": "U+F110E",
+        "character": "󱄎"
+    },
+    {
+        "name": "local_filled_and_rectangle",
+        "unicode_hex": "U+F110F",
+        "character": "󱄏"
+    },
+    {
+        "name": "carseat_left_fill",
+        "unicode_hex": "U+F1110",
+        "character": "󱄐"
+    },
+    {
+        "name": "carseat_right_fill",
+        "unicode_hex": "U+F1111",
+        "character": "󱄑"
+    },
+    {
+        "name": "lock_badge_child_fill",
+        "unicode_hex": "U+F1112",
+        "character": "󱄒"
+    },
+    {
+        "name": "notifications_and_status_bar",
+        "unicode_hex": "U+F1113",
+        "character": "󱄓"
+    },
+    {
+        "name": "mirror_side_left_and_arrow_turn_down_right_fill",
+        "unicode_hex": "U+F1114",
+        "character": "󱄔"
+    },
+    {
+        "name": "car_air_purifier_fill",
+        "unicode_hex": "U+F1115",
+        "character": "󱄕"
+    },
+    {
+        "name": "sunblind_unexpanded",
+        "unicode_hex": "U+F1116",
+        "character": "󱄖"
+    },
+    {
+        "name": "sunblind_expand_fill",
+        "unicode_hex": "U+F1117",
+        "character": "󱄗"
+    },
+    {
+        "name": "car_width_auxiliary_projection_fill",
+        "unicode_hex": "U+F1118",
+        "character": "󱄘"
+    },
+    {
+        "name": "taillight_fog_fill",
+        "unicode_hex": "U+F1119",
+        "character": "󱄙"
+    },
+    {
+        "name": "car_outside_circulation_auto_en",
+        "unicode_hex": "U+F111A",
+        "character": "󱄚"
+    },
+    {
+        "name": "car_outside_circulation_fill_auto_en",
+        "unicode_hex": "U+F111B",
+        "character": "󱄛"
+    },
+    {
+        "name": "car_outside_circulation_auto",
+        "unicode_hex": "U+F111C",
+        "character": "󱄜"
+    },
+    {
+        "name": "car_outside_circulation_fill_auto",
+        "unicode_hex": "U+F111D",
+        "character": "󱄝"
+    },
+    {
+        "name": "car_internal_circulation_auto",
+        "unicode_hex": "U+F111E",
+        "character": "󱄞"
+    },
+    {
+        "name": "car_internal_circulation_fill_auto",
+        "unicode_hex": "U+F111F",
+        "character": "󱄟"
+    },
+    {
+        "name": "car_internal_circulation_auto_en",
+        "unicode_hex": "U+F1120",
+        "character": "󱄠"
+    },
+    {
+        "name": "car_internal_circulation_fill_auto_en",
+        "unicode_hex": "U+F1121",
+        "character": "󱄡"
+    },
+    {
+        "name": "cinematic_style_review_assistance",
+        "unicode_hex": "U+F1122",
+        "character": "󱄢"
+    },
+    {
+        "name": "cinematic_style_review_assistance_slash",
+        "unicode_hex": "U+F1123",
+        "character": "󱄣"
+    },
+    {
+        "name": "rectangle_uphalf_inset_filled_arrowtriangle_left",
+        "unicode_hex": "U+F1124",
+        "character": "󱄤"
+    },
+    {
+        "name": "viewfinder_3D",
+        "unicode_hex": "U+F1125",
+        "character": "󱄥"
+    },
+    {
+        "name": "hand_thumbsup_gap",
+        "unicode_hex": "U+F1126",
+        "character": "󱄦"
+    },
+    {
+        "name": "arrow_down_circle_gap",
+        "unicode_hex": "U+F1127",
+        "character": "󱄧"
+    },
+    {
+        "name": "arrow_down_circle_gap_fill",
+        "unicode_hex": "U+F1128",
+        "character": "󱄨"
+    },
+    {
+        "name": "hand_thumbsup_gap_fill",
+        "unicode_hex": "U+F1129",
+        "character": "󱄩"
+    },
+    {
+        "name": "calendar_desk",
+        "unicode_hex": "U+F112A",
+        "character": "󱄪"
+    },
+    {
+        "name": "line_2_left_rectangle_viewfinder",
+        "unicode_hex": "U+F112B",
+        "character": "󱄫"
+    },
+    {
+        "name": "line_1_left_rectangle_line_1_right_viewfinder",
+        "unicode_hex": "U+F112C",
+        "character": "󱄬"
+    },
+    {
+        "name": "rectangle_line_2_right_viewfinder",
+        "unicode_hex": "U+F112D",
+        "character": "󱄭"
+    },
+    {
+        "name": "recorder",
+        "unicode_hex": "U+F112E",
+        "character": "󱄮"
+    },
+    {
+        "name": "earphone_case_2",
+        "unicode_hex": "U+F112F",
+        "character": "󱄯"
+    },
+    {
+        "name": "earphone_case_1",
+        "unicode_hex": "U+F1130",
+        "character": "󱄰"
+    },
+    {
+        "name": "earphone_case_0",
+        "unicode_hex": "U+F1131",
+        "character": "󱄱"
+    },
+    {
+        "name": "earphone_case_4",
+        "unicode_hex": "U+F1132",
+        "character": "󱄲"
+    },
+    {
+        "name": "earphone_case_3",
+        "unicode_hex": "U+F1133",
+        "character": "󱄳"
+    },
+    {
+        "name": "earphone_case_9",
+        "unicode_hex": "U+F1134",
+        "character": "󱄴"
+    },
+    {
+        "name": "earphone_case_7",
+        "unicode_hex": "U+F1135",
+        "character": "󱄵"
+    },
+    {
+        "name": "earphone_case_5",
+        "unicode_hex": "U+F1136",
+        "character": "󱄶"
+    },
+    {
+        "name": "earphone_case_6",
+        "unicode_hex": "U+F1137",
+        "character": "󱄷"
+    },
+    {
+        "name": "earphone_case_10",
+        "unicode_hex": "U+F1138",
+        "character": "󱄸"
+    },
+    {
+        "name": "earphone_case_8",
+        "unicode_hex": "U+F1139",
+        "character": "󱄹"
+    },
+    {
+        "name": "code",
+        "unicode_hex": "U+F113A",
+        "character": "󱄺"
+    },
+    {
+        "name": "statusbar_hotspot",
+        "unicode_hex": "U+F113B",
+        "character": "󱄻"
+    },
+    {
+        "name": "statusbar_hotspot_badge_1",
+        "unicode_hex": "U+F113D",
+        "character": "󱄽"
+    },
+    {
+        "name": "statusbar_hotspot_badge_2",
+        "unicode_hex": "U+F113E",
+        "character": "󱄾"
+    },
+    {
+        "name": "statusbar_hotspot_badge_3",
+        "unicode_hex": "U+F113F",
+        "character": "󱄿"
+    },
+    {
+        "name": "statusbar_hotspot_badge_4",
+        "unicode_hex": "U+F1140",
+        "character": "󱅀"
+    },
+    {
+        "name": "statusbar_hotspot_badge_5",
+        "unicode_hex": "U+F1141",
+        "character": "󱅁"
+    },
+    {
+        "name": "statusbar_hotspot_badge_6",
+        "unicode_hex": "U+F1142",
+        "character": "󱅂"
+    },
+    {
+        "name": "statusbar_hotspot_badge_7",
+        "unicode_hex": "U+F1143",
+        "character": "󱅃"
+    },
+    {
+        "name": "statusbar_hotspot_badge_8",
+        "unicode_hex": "U+F1144",
+        "character": "󱅄"
+    },
+    {
+        "name": "statusbar_wifi_part",
+        "unicode_hex": "U+F1145",
+        "character": "󱅅"
+    },
+    {
+        "name": "statusbar_wifi_gap_part",
+        "unicode_hex": "U+F1146",
+        "character": "󱅆"
+    },
+    {
+        "name": "statusbar_wifi_gap_plus_part",
+        "unicode_hex": "U+F1147",
+        "character": "󱅇"
+    },
+    {
+        "name": "statusbar_badge_right_bottom_data",
+        "unicode_hex": "U+F1148",
+        "character": "󱅈"
+    },
+    {
+        "name": "statusbar_badge_right_bottom_exclamationmark",
+        "unicode_hex": "U+F1149",
+        "character": "󱅉"
+    },
+    {
+        "name": "statusbar_wifi_badge_hotspot_part",
+        "unicode_hex": "U+F114A",
+        "character": "󱅊"
+    },
+    {
+        "name": "statusbar_wifi_badge_wifi_part",
+        "unicode_hex": "U+F114B",
+        "character": "󱅋"
+    },
+    {
+        "name": "statusbar_wifi_badge_wifi_gap_part",
+        "unicode_hex": "U+F114C",
+        "character": "󱅌"
+    },
+    {
+        "name": "statusbar_wifi_badge_wifi_gap_plus_part",
+        "unicode_hex": "U+F114D",
+        "character": "󱅍"
+    },
+    {
+        "name": "statusbar_badge_left_top_6",
+        "unicode_hex": "U+F114E",
+        "character": "󱅎"
+    },
+    {
+        "name": "statusbar_badge_left_top_7",
+        "unicode_hex": "U+F114F",
+        "character": "󱅏"
+    },
+    {
+        "name": "statusbar_badge_left_top_8",
+        "unicode_hex": "U+F1150",
+        "character": "󱅐"
+    },
+    {
+        "name": "statusbar_badge_left_top_9",
+        "unicode_hex": "U+F1151",
+        "character": "󱅑"
+    },
+    {
+        "name": "statusbar_badge_left_top_6_plus",
+        "unicode_hex": "U+F1152",
+        "character": "󱅒"
+    },
+    {
+        "name": "statusbar_badge_left_top_7_plus",
+        "unicode_hex": "U+F1153",
+        "character": "󱅓"
+    },
+    {
+        "name": "statusbar_badge_left_top_8_plus",
+        "unicode_hex": "U+F1154",
+        "character": "󱅔"
+    },
+    {
+        "name": "statusbar_badge_left_top_9_plus",
+        "unicode_hex": "U+F1155",
+        "character": "󱅕"
+    },
+    {
+        "name": "statusbar_signal_short",
+        "unicode_hex": "U+F1156",
+        "character": "󱅖"
+    },
+    {
+        "name": "statusbar_signal_short_badge_R",
+        "unicode_hex": "U+F1157",
+        "character": "󱅗"
+    },
+    {
+        "name": "statusbar_signal_lang",
+        "unicode_hex": "U+F1158",
+        "character": "󱅘"
+    },
+    {
+        "name": "statusbar_signal_lang_badge_R",
+        "unicode_hex": "U+F1159",
+        "character": "󱅙"
+    },
+    {
+        "name": "statusbar_signal_lang_badge_skystone",
+        "unicode_hex": "U+F115A",
+        "character": "󱅚"
+    },
+    {
+        "name": "statusbar_signal_lang_left_bottom_data",
+        "unicode_hex": "U+F115B",
+        "character": "󱅛"
+    },
+    {
+        "name": "statusbar_signal_left_top_2G",
+        "unicode_hex": "U+F115C",
+        "character": "󱅜"
+    },
+    {
+        "name": "statusbar_signal_left_top_3G",
+        "unicode_hex": "U+F115D",
+        "character": "󱅝"
+    },
+    {
+        "name": "statusbar_signal_left_top_4G",
+        "unicode_hex": "U+F115E",
+        "character": "󱅞"
+    },
+    {
+        "name": "statusbar_signal_left_top_4G_plus",
+        "unicode_hex": "U+F115F",
+        "character": "󱅟"
+    },
+    {
+        "name": "statusbar_signal_left_top_5A",
+        "unicode_hex": "U+F1160",
+        "character": "󱅠"
+    },
+    {
+        "name": "statusbar_signal_left_top_5G",
+        "unicode_hex": "U+F1161",
+        "character": "󱅡"
+    },
+    {
+        "name": "statusbar_signal_left_top_H",
+        "unicode_hex": "U+F1162",
+        "character": "󱅢"
+    },
+    {
+        "name": "statusbar_signal_left_top_H_plus",
+        "unicode_hex": "U+F1163",
+        "character": "󱅣"
+    },
+    {
+        "name": "statusbar_signal_left_top_X",
+        "unicode_hex": "U+F1164",
+        "character": "󱅤"
+    },
+    {
+        "name": "statusbar_signal_stack_container_large",
+        "unicode_hex": "U+F1165",
+        "character": "󱅥"
+    },
+    {
+        "name": "statusbar_signal_stack_container_medium",
+        "unicode_hex": "U+F1166",
+        "character": "󱅦"
+    },
+    {
+        "name": "statusbar_signal_stack_container_medium2",
+        "unicode_hex": "U+F1167",
+        "character": "󱅧"
+    },
+    {
+        "name": "statusbar_signal_stack_container_small",
+        "unicode_hex": "U+F1168",
+        "character": "󱅨"
+    },
+    {
+        "name": "statusbar_signal_stack_top_badge_R",
+        "unicode_hex": "U+F1169",
+        "character": "󱅩"
+    },
+    {
+        "name": "statusbar_signal_stack_top",
+        "unicode_hex": "U+F116A",
+        "character": "󱅪"
+    },
+    {
+        "name": "statusbar_signal_stack_bottom_badge_R",
+        "unicode_hex": "U+F116B",
+        "character": "󱅫"
+    },
+    {
+        "name": "statusbar_signal_stack_bottom",
+        "unicode_hex": "U+F116C",
+        "character": "󱅬"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_data",
+        "unicode_hex": "U+F116D",
+        "character": "󱅭"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_data",
+        "unicode_hex": "U+F116E",
+        "character": "󱅮"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_large_4G_plus",
+        "unicode_hex": "U+F116F",
+        "character": "󱅯"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_2G",
+        "unicode_hex": "U+F1170",
+        "character": "󱅰"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_3G",
+        "unicode_hex": "U+F1171",
+        "character": "󱅱"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_4G",
+        "unicode_hex": "U+F1172",
+        "character": "󱅲"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_5A",
+        "unicode_hex": "U+F1173",
+        "character": "󱅳"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_5G",
+        "unicode_hex": "U+F1174",
+        "character": "󱅴"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_small_H",
+        "unicode_hex": "U+F1175",
+        "character": "󱅵"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_2_H_plus",
+        "unicode_hex": "U+F1176",
+        "character": "󱅶"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_small_X",
+        "unicode_hex": "U+F1177",
+        "character": "󱅷"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_large_4G_plus",
+        "unicode_hex": "U+F1178",
+        "character": "󱅸"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_2G",
+        "unicode_hex": "U+F1179",
+        "character": "󱅹"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_3G",
+        "unicode_hex": "U+F117A",
+        "character": "󱅺"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_4G",
+        "unicode_hex": "U+F117B",
+        "character": "󱅻"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_5A",
+        "unicode_hex": "U+F117C",
+        "character": "󱅼"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_5G",
+        "unicode_hex": "U+F117D",
+        "character": "󱅽"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_small_H",
+        "unicode_hex": "U+F117E",
+        "character": "󱅾"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_2_H_plus",
+        "unicode_hex": "U+F117F",
+        "character": "󱅿"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_small_X",
+        "unicode_hex": "U+F1180",
+        "character": "󱆀"
+    },
+    {
+        "name": "statusbar_airplane_fill",
+        "unicode_hex": "U+F1181",
+        "character": "󱆁"
+    },
+    {
+        "name": "statusbar_alarm_fill",
+        "unicode_hex": "U+F1182",
+        "character": "󱆂"
+    },
+    {
+        "name": "statusbar_bluetooth_arrowtriangle_2_inward",
+        "unicode_hex": "U+F1183",
+        "character": "󱆃"
+    },
+    {
+        "name": "statusbar_bluetooth",
+        "unicode_hex": "U+F1184",
+        "character": "󱆄"
+    },
+    {
+        "name": "statusbar_communicationsharing_mobiledata",
+        "unicode_hex": "U+F1185",
+        "character": "󱆅"
+    },
+    {
+        "name": "statusbar_communicationsharing",
+        "unicode_hex": "U+F1186",
+        "character": "󱆆"
+    },
+    {
+        "name": "statusbar_earphone",
+        "unicode_hex": "U+F1187",
+        "character": "󱆇"
+    },
+    {
+        "name": "statusbar_local_badge_hd_fill",
+        "unicode_hex": "U+F1188",
+        "character": "󱆈"
+    },
+    {
+        "name": "statusbar_local_fill",
+        "unicode_hex": "U+F1189",
+        "character": "󱆉"
+    },
+    {
+        "name": "statusbar_local_circle_fill",
+        "unicode_hex": "U+F118A",
+        "character": "󱆊"
+    },
+    {
+        "name": "statusbar_hd_square_fill",
+        "unicode_hex": "U+F118B",
+        "character": "󱆋"
+    },
+    {
+        "name": "statusbar_hd_plus_rectangle_fill",
+        "unicode_hex": "U+F118C",
+        "character": "󱆌"
+    },
+    {
+        "name": "statusbar_bell_slash_fill",
+        "unicode_hex": "U+F118D",
+        "character": "󱆍"
+    },
+    {
+        "name": "statusbar_nearlink_arrowtriangle_2_inward",
+        "unicode_hex": "U+F118F",
+        "character": "󱆏"
+    },
+    {
+        "name": "statusbar_nearlink",
+        "unicode_hex": "U+F1190",
+        "character": "󱆐"
+    },
+    {
+        "name": "statusbar_nfc_fill",
+        "unicode_hex": "U+F1191",
+        "character": "󱆑"
+    },
+    {
+        "name": "statusbar_exclamationmark_simcard_fill",
+        "unicode_hex": "U+F1192",
+        "character": "󱆒"
+    },
+    {
+        "name": "statusbar_phone_fill_slash",
+        "unicode_hex": "U+F1193",
+        "character": "󱆓"
+    },
+    {
+        "name": "statusbar_satellite_fill",
+        "unicode_hex": "U+F1194",
+        "character": "󱆔"
+    },
+    {
+        "name": "statusbar_satellite2_fill",
+        "unicode_hex": "U+F1195",
+        "character": "󱆕"
+    },
+    {
+        "name": "statusbar_key_shield_fill",
+        "unicode_hex": "U+F1196",
+        "character": "󱆖"
+    },
+    {
+        "name": "statusbar_rectangle_portrait_wave_2",
+        "unicode_hex": "U+F1197",
+        "character": "󱆗"
+    },
+    {
+        "name": "statusbar_phone_badge_waveform_3_fill",
+        "unicode_hex": "U+F1198",
+        "character": "󱆘"
+    },
+    {
+        "name": "statusbar_vpn_fill",
+        "unicode_hex": "U+F1199",
+        "character": "󱆙"
+    },
+    {
+        "name": "statusbar_wifi_slash",
+        "unicode_hex": "U+F119A",
+        "character": "󱆚"
+    },
+    {
+        "name": "statusbar_exclamationmark_code",
+        "unicode_hex": "U+F119B",
+        "character": "󱆛"
+    },
+    {
+        "name": "statusbar_ellipsis_code",
+        "unicode_hex": "U+F119C",
+        "character": "󱆜"
+    },
+    {
+        "name": "statusbar_battery_bolt_2_wave_fill",
+        "unicode_hex": "U+F119D",
+        "character": "󱆝"
+    },
+    {
+        "name": "statusbar_battery_bolt_2_fill",
+        "unicode_hex": "U+F119E",
+        "character": "󱆞"
+    },
+    {
+        "name": "statusbar_battery_bolt_wave_fill",
+        "unicode_hex": "U+F119F",
+        "character": "󱆟"
+    },
+    {
+        "name": "statusbar_battery_bolt_fill",
+        "unicode_hex": "U+F11A0",
+        "character": "󱆠"
+    },
+    {
+        "name": "statusbar_battery_bolt_3_fill",
+        "unicode_hex": "U+F11A1",
+        "character": "󱆡"
+    },
+    {
+        "name": "statusbar_battery_leaf_fill",
+        "unicode_hex": "U+F11A2",
+        "character": "󱆢"
+    },
+    {
+        "name": "statusbar_battery_bolt_3_wave_fill",
+        "unicode_hex": "U+F11A3",
+        "character": "󱆣"
+    },
+    {
+        "name": "statusbar_battery",
+        "unicode_hex": "U+F11A4",
+        "character": "󱆤"
+    },
+    {
+        "name": "statusbar_battery_5percent",
+        "unicode_hex": "U+F11A5",
+        "character": "󱆥"
+    },
+    {
+        "name": "statusbar_battery_10percent",
+        "unicode_hex": "U+F11A6",
+        "character": "󱆦"
+    },
+    {
+        "name": "statusbar_battery_20percent",
+        "unicode_hex": "U+F11A7",
+        "character": "󱆧"
+    },
+    {
+        "name": "statusbar_battery_30percent",
+        "unicode_hex": "U+F11A8",
+        "character": "󱆨"
+    },
+    {
+        "name": "statusbar_battery_40percent",
+        "unicode_hex": "U+F11A9",
+        "character": "󱆩"
+    },
+    {
+        "name": "statusbar_battery_50percent",
+        "unicode_hex": "U+F11AA",
+        "character": "󱆪"
+    },
+    {
+        "name": "statusbar_battery_60percent",
+        "unicode_hex": "U+F11AB",
+        "character": "󱆫"
+    },
+    {
+        "name": "statusbar_battery_70percent",
+        "unicode_hex": "U+F11AC",
+        "character": "󱆬"
+    },
+    {
+        "name": "statusbar_battery_80percent",
+        "unicode_hex": "U+F11AD",
+        "character": "󱆭"
+    },
+    {
+        "name": "statusbar_battery_90percent",
+        "unicode_hex": "U+F11AE",
+        "character": "󱆮"
+    },
+    {
+        "name": "statusbar_battery_95percent",
+        "unicode_hex": "U+F11AF",
+        "character": "󱆯"
+    },
+    {
+        "name": "statusbar_battery_100percent",
+        "unicode_hex": "U+F11B0",
+        "character": "󱆰"
+    },
+    {
+        "name": "statusbar_device_bluetooth_arrowtriangle_1_inward",
+        "unicode_hex": "U+F11B1",
+        "character": "󱆱"
+    },
+    {
+        "name": "statusbar_device_nearlink_arrowtriangle_2_inward",
+        "unicode_hex": "U+F11B3",
+        "character": "󱆳"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_100percent",
+        "unicode_hex": "U+F11B4",
+        "character": "󱆴"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_5percent",
+        "unicode_hex": "U+F11B5",
+        "character": "󱆵"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_10percent",
+        "unicode_hex": "U+F11B6",
+        "character": "󱆶"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_20percent",
+        "unicode_hex": "U+F11B7",
+        "character": "󱆷"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_30percent",
+        "unicode_hex": "U+F11B8",
+        "character": "󱆸"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_40percent",
+        "unicode_hex": "U+F11B9",
+        "character": "󱆹"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_50percent",
+        "unicode_hex": "U+F11BA",
+        "character": "󱆺"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_60percent",
+        "unicode_hex": "U+F11BB",
+        "character": "󱆻"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_70percent",
+        "unicode_hex": "U+F11BC",
+        "character": "󱆼"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_80percent",
+        "unicode_hex": "U+F11BD",
+        "character": "󱆽"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_90percent",
+        "unicode_hex": "U+F11BE",
+        "character": "󱆾"
+    },
+    {
+        "name": "statusbar_device_battery_vertical_95percent",
+        "unicode_hex": "U+F11BF",
+        "character": "󱆿"
+    },
+    {
+        "name": "statusbar_device_battery_vertical",
+        "unicode_hex": "U+F11C0",
+        "character": "󱇀"
+    },
+    {
+        "name": "statusbar_signal_short_4G_plus",
+        "unicode_hex": "U+F11C1",
+        "character": "󱇁"
+    },
+    {
+        "name": "statusbar_signal_short_badge_R_4G_plus",
+        "unicode_hex": "U+F11C2",
+        "character": "󱇂"
+    },
+    {
+        "name": "statusbar_signal_lang_badge_skystone_4G_plus",
+        "unicode_hex": "U+F11C3",
+        "character": "󱇃"
+    },
+    {
+        "name": "statusbar_signal_lang_left_bottom_data_4G_plus",
+        "unicode_hex": "U+F11C4",
+        "character": "󱇄"
+    },
+    {
+        "name": "statusbar_signal_stack_top_mirroring",
+        "unicode_hex": "U+F11C5",
+        "character": "󱇅"
+    },
+    {
+        "name": "statusbar_signal_stack_top_badge_R_mirroring",
+        "unicode_hex": "U+F11C6",
+        "character": "󱇆"
+    },
+    {
+        "name": "statusbar_signal_stack_bottom_mirroring",
+        "unicode_hex": "U+F11C7",
+        "character": "󱇇"
+    },
+    {
+        "name": "statusbar_signal_stack_bottom_badge_R_mirroring",
+        "unicode_hex": "U+F11C8",
+        "character": "󱇈"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_5A_mirroring",
+        "unicode_hex": "U+F11C9",
+        "character": "󱇉"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_5G_mirroring",
+        "unicode_hex": "U+F11CA",
+        "character": "󱇊"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_4G_mirroring",
+        "unicode_hex": "U+F11CB",
+        "character": "󱇋"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_large_4G_plus_mirroring",
+        "unicode_hex": "U+F11CC",
+        "character": "󱇌"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_2G_mirroring",
+        "unicode_hex": "U+F11CD",
+        "character": "󱇍"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_3G_mirroring",
+        "unicode_hex": "U+F11CE",
+        "character": "󱇎"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_data_mirroring",
+        "unicode_hex": "U+F11CF",
+        "character": "󱇏"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_data_mirroring",
+        "unicode_hex": "U+F11D0",
+        "character": "󱇐"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_large_4G_plus_mirroring",
+        "unicode_hex": "U+F11D1",
+        "character": "󱇑"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_5A_mirroring",
+        "unicode_hex": "U+F11D2",
+        "character": "󱇒"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_5G_mirroring",
+        "unicode_hex": "U+F11D3",
+        "character": "󱇓"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_4G_mirroring",
+        "unicode_hex": "U+F11D4",
+        "character": "󱇔"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_3G_mirroring",
+        "unicode_hex": "U+F11D5",
+        "character": "󱇕"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_2G_mirroring",
+        "unicode_hex": "U+F11D6",
+        "character": "󱇖"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_medium_2_H_plus_mirroring",
+        "unicode_hex": "U+F11D7",
+        "character": "󱇗"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_medium_2_H_plus_mirroring",
+        "unicode_hex": "U+F11D8",
+        "character": "󱇘"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_small_H_mirroring",
+        "unicode_hex": "U+F11D9",
+        "character": "󱇙"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_small_H_mirroring",
+        "unicode_hex": "U+F11DA",
+        "character": "󱇚"
+    },
+    {
+        "name": "statusbar_signal_stack_left_top_small_X_mirroring",
+        "unicode_hex": "U+F11DB",
+        "character": "󱇛"
+    },
+    {
+        "name": "statusbar_signal_stack_left_bottom_small_X_mirroring",
+        "unicode_hex": "U+F11DC",
+        "character": "󱇜"
+    },
+    {
+        "name": "statusbar_signal_short_4G_plus_mirroring",
+        "unicode_hex": "U+F11DD",
+        "character": "󱇝"
+    },
+    {
+        "name": "statusbar_signal_short_badge_R_4G_plus_mirroring",
+        "unicode_hex": "U+F11DE",
+        "character": "󱇞"
+    },
+    {
+        "name": "statusbar_signal_lang_badge_skystone_4G_plus_mirroring",
+        "unicode_hex": "U+F11DF",
+        "character": "󱇟"
+    },
+    {
+        "name": "statusbar_signal_lang_left_bottom_data_4G_plus_mirroring",
+        "unicode_hex": "U+F11E0",
+        "character": "󱇠"
+    },
+    {
+        "name": "statusbar_hotspot_badge_1_mirroring",
+        "unicode_hex": "U+F11E1",
+        "character": "󱇡"
+    },
+    {
+        "name": "statusbar_hotspot_badge_2_mirroring",
+        "unicode_hex": "U+F11E2",
+        "character": "󱇢"
+    },
+    {
+        "name": "statusbar_hotspot_badge_3_mirroring",
+        "unicode_hex": "U+F11E3",
+        "character": "󱇣"
+    },
+    {
+        "name": "statusbar_hotspot_badge_4_mirroring",
+        "unicode_hex": "U+F11E4",
+        "character": "󱇤"
+    },
+    {
+        "name": "statusbar_hotspot_badge_5_mirroring",
+        "unicode_hex": "U+F11E5",
+        "character": "󱇥"
+    },
+    {
+        "name": "statusbar_hotspot_badge_6_mirroring",
+        "unicode_hex": "U+F11E6",
+        "character": "󱇦"
+    },
+    {
+        "name": "statusbar_hotspot_badge_7_mirroring",
+        "unicode_hex": "U+F11E7",
+        "character": "󱇧"
+    },
+    {
+        "name": "statusbar_hotspot_badge_8_mirroring",
+        "unicode_hex": "U+F11E8",
+        "character": "󱇨"
+    },
+    {
+        "name": "statusbar_badge_right_bottom_data_lang",
+        "unicode_hex": "U+F11E9",
+        "character": "󱇩"
+    },
+    {
+        "name": "statusbar_badge_right_bottom_exclamationmark_lang",
+        "unicode_hex": "U+F11EA",
+        "character": "󱇪"
+    },
+    {
+        "name": "car_key_fill",
+        "unicode_hex": "U+F11EB",
+        "character": "󱇫"
+    },
+    {
+        "name": "AI_hd_rectangle",
+        "unicode_hex": "U+F11EC",
+        "character": "󱇬"
+    },
+    {
+        "name": "arrowtriangle_up_mic_fill",
+        "unicode_hex": "U+F11ED",
+        "character": "󱇭"
+    },
+    {
+        "name": "HEIF_format",
+        "unicode_hex": "U+F11EE",
+        "character": "󱇮"
+    },
+    {
+        "name": "JPG_format",
+        "unicode_hex": "U+F11EF",
+        "character": "󱇯"
+    },
+    {
+        "name": "phone_badge_wifi_fill",
+        "unicode_hex": "U+F11F0",
+        "character": "󱇰"
+    },
+    {
+        "name": "rectangle_portrait_wave_2_sloping",
+        "unicode_hex": "U+F11F1",
+        "character": "󱇱"
+    },
+    {
+        "name": "curtain",
+        "unicode_hex": "U+F11F2",
+        "character": "󱇲"
+    },
+    {
+        "name": "message_badge_checkmark",
+        "unicode_hex": "U+F11F3",
+        "character": "󱇳"
+    },
+    {
+        "name": "movie_mode",
+        "unicode_hex": "U+F11F4",
+        "character": "󱇴"
+    },
+    {
+        "name": "rectangle_pattern",
+        "unicode_hex": "U+F11F5",
+        "character": "󱇵"
+    },
+    {
+        "name": "screen_2_fill",
+        "unicode_hex": "U+F11F6",
+        "character": "󱇶"
+    },
+    {
+        "name": "star_animationstar_animation",
+        "unicode_hex": "U+F11F7",
+        "character": "󱇷"
+    },
+    {
+        "name": "viewfinder_square_badge_plus",
+        "unicode_hex": "U+F11F8",
+        "character": "󱇸"
+    },
+    {
+        "name": "AI_handwriting_set",
+        "unicode_hex": "U+F11F9",
+        "character": "󱇹"
+    },
+    {
+        "name": "AI_rice_viewfinder_fill",
+        "unicode_hex": "U+F11FA",
+        "character": "󱇺"
+    },
+    {
+        "name": "chevron_compact_down",
+        "unicode_hex": "U+F11FB",
+        "character": "󱇻"
+    },
+    {
+        "name": "chevron_compact_up",
+        "unicode_hex": "U+F11FC",
+        "character": "󱇼"
+    },
+    {
+        "name": "local_badge_fill",
+        "unicode_hex": "U+F11FD",
+        "character": "󱇽"
+    },
+    {
+        "name": "mind_map",
+        "unicode_hex": "U+F11FE",
+        "character": "󱇾"
+    },
+    {
+        "name": "rectangle_grid_1x2",
+        "unicode_hex": "U+F11FF",
+        "character": "󱇿"
+    },
+    {
+        "name": "text_book_AI",
+        "unicode_hex": "U+F1200",
+        "character": "󱈀"
+    },
+    {
+        "name": "AI_retouch_agent",
+        "unicode_hex": "U+F1201",
+        "character": "󱈁"
+    },
+    {
+        "name": "Portuguese_PTB_square_fill",
+        "unicode_hex": "U+F1202",
+        "character": "󱈂"
+    },
+    {
+        "name": "Portuguese_square_fill",
+        "unicode_hex": "U+F1203",
+        "character": "󱈃"
+    },
+    {
+        "name": "rectangle_and_dash_and_rectangle_horizontal",
+        "unicode_hex": "U+F1204",
+        "character": "󱈄"
+    },
+    {
+        "name": "rectangle_and_dash_and_rectangle",
+        "unicode_hex": "U+F1205",
+        "character": "󱈅"
+    },
+    {
+        "name": "rectangle_half_dashed",
+        "unicode_hex": "U+F1206",
+        "character": "󱈆"
+    },
+    {
+        "name": "rectangle_rectangle_dashed",
+        "unicode_hex": "U+F1207",
+        "character": "󱈇"
+    },
+    {
+        "name": "swap_shirt",
+        "unicode_hex": "U+F1208",
+        "character": "󱈈"
+    },
+    {
+        "name": "crown_fill",
+        "unicode_hex": "U+F1209",
+        "character": "󱈉"
+    },
+    {
+        "name": "explode_fill",
+        "unicode_hex": "U+F120A",
+        "character": "󱈊"
+    },
+    {
+        "name": "keyboard_badge_9",
+        "unicode_hex": "U+F120B",
+        "character": "󱈋"
+    },
+    {
+        "name": "keyboard_badge_14",
+        "unicode_hex": "U+F120C",
+        "character": "󱈌"
+    },
+    {
+        "name": "keyboard_badge_26",
+        "unicode_hex": "U+F120D",
+        "character": "󱈍"
+    },
+    {
+        "name": "rectangle_on_square",
+        "unicode_hex": "U+F120E",
+        "character": "󱈎"
+    },
+    {
+        "name": "satellite_1_fill",
+        "unicode_hex": "U+F120F",
+        "character": "󱈏"
+    },
+    {
+        "name": "screen_rotation_2_fill",
+        "unicode_hex": "U+F1210",
+        "character": "󱈐"
+    },
+    {
+        "name": "ABC_rectangle",
+        "unicode_hex": "U+F1211",
+        "character": "󱈑"
+    },
+    {
+        "name": "eye_slash_badge_lock",
+        "unicode_hex": "U+F1212",
+        "character": "󱈒"
+    },
+    {
+        "name": "icloud_badge_trash",
+        "unicode_hex": "U+F1213",
+        "character": "󱈓"
+    },
+    {
+        "name": "Japanese_Katakana_square_fill",
+        "unicode_hex": "U+F1214",
+        "character": "󱈔"
+    },
+    {
+        "name": "keyboard_badge_full",
+        "unicode_hex": "U+F1215",
+        "character": "󱈕"
+    },
+    {
+        "name": "lrc_square",
+        "unicode_hex": "U+F1216",
+        "character": "󱈖"
+    },
+    {
+        "name": "PuraX_fill",
+        "unicode_hex": "U+F1217",
+        "character": "󱈗"
+    },
+    {
+        "name": "website",
+        "unicode_hex": "U+F1218",
+        "character": "󱈘"
+    },
+    {
+        "name": "figure_marathon",
+        "unicode_hex": "U+F1219",
+        "character": "󱈙"
+    },
+    {
+        "name": "figure_wheelchair_roll_duration",
+        "unicode_hex": "U+F121A",
+        "character": "󱈚"
+    },
+    {
+        "name": "figure_wheelchair_roll_frequency",
+        "unicode_hex": "U+F121B",
+        "character": "󱈛"
+    },
+    {
+        "name": "figure_wheelchair_roll_number",
+        "unicode_hex": "U+F121C",
+        "character": "󱈜"
+    },
+    {
+        "name": "figure_wheelchair_roll_time",
+        "unicode_hex": "U+F121D",
+        "character": "󱈝"
+    },
+    {
+        "name": "ruler_measure_fill",
+        "unicode_hex": "U+F121E",
+        "character": "󱈞"
+    },
+    {
+        "name": "tolerance_fill",
+        "unicode_hex": "U+F121F",
+        "character": "󱈟"
+    },
+    {
+        "name": "tolerance",
+        "unicode_hex": "U+F1220",
+        "character": "󱈠"
+    },
+    {
+        "name": "arrow_down_and_line_horizontal_and_arrow_up",
+        "unicode_hex": "U+F1221",
+        "character": "󱈡"
+    },
+    {
+        "name": "arrow_down_to_line",
+        "unicode_hex": "U+F1222",
+        "character": "󱈢"
+    },
+    {
+        "name": "arrow_inward_and_rectangle",
+        "unicode_hex": "U+F1223",
+        "character": "󱈣"
+    },
+    {
+        "name": "arrow_outward_and_rectangle",
+        "unicode_hex": "U+F1224",
+        "character": "󱈤"
+    },
+    {
+        "name": "paint_bucket",
+        "unicode_hex": "U+F1225",
+        "character": "󱈥"
+    },
+    {
+        "name": "square_and_plus",
+        "unicode_hex": "U+F1226",
+        "character": "󱈦"
+    },
+    {
+        "name": "xmark_and_rectangle_grid_1x2",
+        "unicode_hex": "U+F1227",
+        "character": "󱈧"
+    },
+    {
+        "name": "xmark_and_rectangle_grid_2x1",
+        "unicode_hex": "U+F1228",
+        "character": "󱈨"
+    },
+    {
+        "name": "align_center_1",
+        "unicode_hex": "U+F1229",
+        "character": "󱈩"
+    },
+    {
+        "name": "align_right_1",
+        "unicode_hex": "U+F122A",
+        "character": "󱈪"
+    },
+    {
+        "name": "plus_and_rectangle_portrait",
+        "unicode_hex": "U+F122B",
+        "character": "󱈫"
+    },
+    {
+        "name": "plus_below_rectangle_portrait",
+        "unicode_hex": "U+F122C",
+        "character": "󱈬"
+    },
+    {
+        "name": "rectangle_portrait_and_plus",
+        "unicode_hex": "U+F122D",
+        "character": "󱈭"
+    },
+    {
+        "name": "rectangle_portrait_below_plus",
+        "unicode_hex": "U+F122E",
+        "character": "󱈮"
+    },
+    {
+        "name": "picture_text_around",
+        "unicode_hex": "U+F122F",
+        "character": "󱈯"
+    },
+    {
+        "name": "picture_text_embed",
+        "unicode_hex": "U+F1230",
+        "character": "󱈰"
+    },
+    {
+        "name": "picture_text_top_bottom",
+        "unicode_hex": "U+F1231",
+        "character": "󱈱"
+    },
+    {
+        "name": "squareshape_dotted_split_2x2_line_diagonal_left",
+        "unicode_hex": "U+F1232",
+        "character": "󱈲"
+    },
+    {
+        "name": "squareshape_dotted_split_2x2_line_diagonal_right",
+        "unicode_hex": "U+F1233",
+        "character": "󱈳"
+    },
+    {
+        "name": "squareshape_split_2x2_dotted",
+        "unicode_hex": "U+F1234",
+        "character": "󱈴"
+    },
+    {
+        "name": "text_and_magnifyingglass",
+        "unicode_hex": "U+F1235",
+        "character": "󱈵"
+    },
+    {
+        "name": "exclamationmark_arrow_2_circlepath",
+        "unicode_hex": "U+F1236",
+        "character": "󱈶"
+    },
+    {
+        "name": "iso_doc",
+        "unicode_hex": "U+F1237",
+        "character": "󱈷"
+    },
+    {
+        "name": "safe_box_fill",
+        "unicode_hex": "U+F1238",
+        "character": "󱈸"
+    },
+    {
+        "name": "star_slash",
+        "unicode_hex": "U+F1239",
+        "character": "󱈹"
+    },
+    {
+        "name": "xmark_arrow_2_circlepath",
+        "unicode_hex": "U+F123A",
+        "character": "󱈺"
+    },
+    {
+        "name": "arrow_up_left_and_arrow_down_right_square",
+        "unicode_hex": "U+F123B",
+        "character": "󱈻"
+    },
+    {
+        "name": "cloud_and_arrow_down_slash",
+        "unicode_hex": "U+F123C",
+        "character": "󱈼"
+    },
+    {
+        "name": "decompress_badge_arrow_right",
+        "unicode_hex": "U+F123D",
+        "character": "󱈽"
+    },
+    {
+        "name": "key_shield_badge_person_crop_circle_fill",
+        "unicode_hex": "U+F123E",
+        "character": "󱈾"
+    },
+    {
+        "name": "line_below_square_large",
+        "unicode_hex": "U+F123F",
+        "character": "󱈿"
+    },
+    {
+        "name": "externaldrive_badge_arrow_2_circlepath",
+        "unicode_hex": "U+F1240",
+        "character": "󱉀"
+    },
+    {
+        "name": "externaldrive_badge_lock_fill",
+        "unicode_hex": "U+F1241",
+        "character": "󱉁"
+    },
+    {
+        "name": "externaldrive_badge_lock_open_fill",
+        "unicode_hex": "U+F1242",
+        "character": "󱉂"
+    },
+    {
+        "name": "key_shield_slash",
+        "unicode_hex": "U+F1243",
+        "character": "󱉃"
+    },
+    {
+        "name": "square_grid_3x1_below_line_grid_1x2",
+        "unicode_hex": "U+F1244",
+        "character": "󱉄"
+    },
+    {
+        "name": "usb_fill",
+        "unicode_hex": "U+F1245",
+        "character": "󱉅"
+    },
+    {
+        "name": "align_left_1",
+        "unicode_hex": "U+F1246",
+        "character": "󱉆"
+    },
+    {
+        "name": "line_below_arrowtriangle_up_circle",
+        "unicode_hex": "U+F1247",
+        "character": "󱉇"
+    },
+    {
+        "name": "DVD_fill",
+        "unicode_hex": "U+F1248",
+        "character": "󱉈"
+    },
+    {
+        "name": "square_text_grid_1x2",
+        "unicode_hex": "U+F1249",
+        "character": "󱉉"
+    },
+    {
+        "name": "desktop_badge_arrowshape_turn_up_right",
+        "unicode_hex": "U+F124A",
+        "character": "󱉊"
+    },
+    {
+        "name": "reverse_order_circle",
+        "unicode_hex": "U+F124B",
+        "character": "󱉋"
+    },
+    {
+        "name": "picture_and_pencil",
+        "unicode_hex": "U+F124C",
+        "character": "󱉌"
+    },
+    {
+        "name": "earphone_16662_fill",
+        "unicode_hex": "U+F124D",
+        "character": "󱉍"
+    },
+    {
+        "name": "earphone_16662_left_fill",
+        "unicode_hex": "U+F124E",
+        "character": "󱉎"
+    },
+    {
+        "name": "earphone_16662_right_fill",
+        "unicode_hex": "U+F124F",
+        "character": "󱉏"
+    },
+    {
+        "name": "earphone_16662",
+        "unicode_hex": "U+F1250",
+        "character": "󱉐"
+    },
+    {
+        "name": "earphone_16662_left",
+        "unicode_hex": "U+F1251",
+        "character": "󱉑"
+    },
+    {
+        "name": "earphone_16662_right",
+        "unicode_hex": "U+F1252",
+        "character": "󱉒"
+    },
+    {
+        "name": "statusbar_battery_bolt_2_horizontal_fill",
+        "unicode_hex": "U+F1253",
+        "character": "󱉓"
+    },
+    {
+        "name": "statusbar_battery_bolt_1_horizontal_fill",
+        "unicode_hex": "U+F1254",
+        "character": "󱉔"
+    },
+    {
+        "name": "statusbar_battery_bolt_3_horizontal_fill",
+        "unicode_hex": "U+F1255",
+        "character": "󱉕"
+    },
+    {
+        "name": "statusbar_battery_leaf_horizontal_fill",
+        "unicode_hex": "U+F1256",
+        "character": "󱉖"
+    },
+    {
+        "name": "statusbar_battery__bolt_1_wave_horizontal_fill",
+        "unicode_hex": "U+F1257",
+        "character": "󱉗"
+    },
+    {
+        "name": "statusbar_battery__bolt_2_wave_horizontal_fill",
+        "unicode_hex": "U+F1258",
+        "character": "󱉘"
+    },
+    {
+        "name": "statusbar_battery__bolt_3_wave_horizontal_fill",
+        "unicode_hex": "U+F1259",
+        "character": "󱉙"
+    },
+    {
+        "name": "statusbar_signal_badge_skystone",
+        "unicode_hex": "U+F125A",
+        "character": "󱉚"
+    },
+    {
+        "name": "square_text_grid_1x2_mirroring",
+        "unicode_hex": "U+F125B",
+        "character": "󱉛"
+    },
+    {
+        "name": "desktop_badge_arrowshape_turn_up_right_mirroring",
+        "unicode_hex": "U+F125C",
+        "character": "󱉜"
+    },
+    {
+        "name": "phone_badge_wifi_fill_mirroring",
+        "unicode_hex": "U+F125D",
+        "character": "󱉝"
+    },
+    {
+        "name": "picture_and_pencil_mirroring",
+        "unicode_hex": "U+F125E",
+        "character": "󱉞"
+    },
+    {
+        "name": "figure_wheelchair_roll_time_mirroring",
+        "unicode_hex": "U+F125F",
+        "character": "󱉟"
+    },
+    {
+        "name": "figure_wheelchair_roll_frequency_mirroring",
+        "unicode_hex": "U+F1260",
+        "character": "󱉠"
+    },
+    {
+        "name": "figure_wheelchair_roll_number_mirroring",
+        "unicode_hex": "U+F1261",
+        "character": "󱉡"
+    },
+    {
+        "name": "text_and_magnifyingglass_mirroring",
+        "unicode_hex": "U+F1262",
+        "character": "󱉢"
+    },
+    {
+        "name": "text_book_AI_mirroring",
+        "unicode_hex": "U+F1263",
+        "character": "󱉣"
+    },
+    {
+        "name": "message_badge_checkmark_mirroring",
+        "unicode_hex": "U+F1264",
+        "character": "󱉤"
+    },
+    {
+        "name": "statusbar_battery_bolt_2_horizontal_fill_mirroring",
+        "unicode_hex": "U+F1265",
+        "character": "󱉥"
+    },
+    {
+        "name": "statusbar_battery_bolt_1_horizontal_fill_mirroring",
+        "unicode_hex": "U+F1266",
+        "character": "󱉦"
+    },
+    {
+        "name": "statusbar_battery_bolt_3_horizontal_fill_mirroring",
+        "unicode_hex": "U+F1267",
+        "character": "󱉧"
+    },
+    {
+        "name": "statusbar_battery_leaf_horizontal_fill_mirroring",
+        "unicode_hex": "U+F1268",
+        "character": "󱉨"
+    },
+    {
+        "name": "statusbar_battery__bolt_1_wave_horizontal_fill_mirroring",
+        "unicode_hex": "U+F1269",
+        "character": "󱉩"
+    },
+    {
+        "name": "statusbar_battery__bolt_2_wave_horizontal_fill_mirroring",
+        "unicode_hex": "U+F126A",
+        "character": "󱉪"
+    },
+    {
+        "name": "statusbar_battery__bolt_3_wave_horizontal_fill_mirroring",
+        "unicode_hex": "U+F126B",
+        "character": "󱉫"
+    },
+    {
+        "name": "iso_doc_mirroring",
+        "unicode_hex": "U+F126C",
+        "character": "󱉬"
+    },
+    {
+        "name": "statusbar_signal_badge_skystone_mirroring",
+        "unicode_hex": "U+F126D",
+        "character": "󱉭"
     }
 ]
