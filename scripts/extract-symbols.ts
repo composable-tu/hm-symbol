@@ -85,7 +85,7 @@ function extractFontInfo(fontPath: string, outputPath: string): void {
   }
 
   // 4. 保存到 JSON 文件
-  writeFileSync(outputPath, JSON.stringify(symbolData, null, 4), "utf-8");
+  writeFileSync(outputPath, JSON.stringify(symbolData, null, 2), "utf-8");
   console.log(`成功提取 ${symbolData.length} 个符号，并保存到 ${outputPath}`);
   if (overrideCount > 0) {
     console.log(`其中 ${overrideCount} 个符号应用了 override`);

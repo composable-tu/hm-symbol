@@ -15,19 +15,28 @@
     "name": "wifi",
     "unicode_hex": "U+F0000",
     "character": "󰀀",
-    "aliases": ["network", "wireless", "WiFi"]
+    "aliases": [
+      "network",
+      "wireless",
+      "WiFi"
+    ]
   },
   {
     "name": "trash",
     "unicode_hex": "U+F0001",
     "character": "󰀁",
-    "aliases": ["delete", "remove"]
+    "aliases": [
+      "delete",
+      "remove"
+    ]
   },
   {
     "name": "trash_circle",
     "unicode_hex": "U+F0002",
     "character": "󰀂",
-    "aliases": ["delete_circle"]
+    "aliases": [
+      "delete_circle"
+    ]
   },
   {
     "name": "picture",
@@ -39,7 +48,9 @@
     "name": "folder_badge_plus",
     "unicode_hex": "U+F0004",
     "character": "󰀄",
-    "aliases": ["new_folder"]
+    "aliases": [
+      "new_folder"
+    ]
   },
   {
     "name": "lung",
@@ -51,7 +62,10 @@
     "name": "mic",
     "unicode_hex": "U+F0006",
     "character": "󰀆",
-    "aliases": ["microphone", "record"]
+    "aliases": [
+      "microphone",
+      "record"
+    ]
   },
   {
     "name": "circle",
@@ -63,13 +77,19 @@
     "name": "lock",
     "unicode_hex": "U+F0008",
     "character": "󰀈",
-    "aliases": ["secure", "locked"]
+    "aliases": [
+      "secure",
+      "locked"
+    ]
   },
   {
     "name": "star_fill",
     "unicode_hex": "U+F0009",
     "character": "󰀉",
-    "aliases": ["favorite_fill", "rate_fill"]
+    "aliases": [
+      "favorite_fill",
+      "rate_fill"
+    ]
   },
   {
     "name": "bookmark",
@@ -99,13 +119,17 @@
     "name": "checkmark_circle_fill",
     "unicode_hex": "U+F000E",
     "character": "󰀎",
-    "aliases": ["done_circle_fill"]
+    "aliases": [
+      "done_circle_fill"
+    ]
   },
   {
     "name": "checkmark_circle",
     "unicode_hex": "U+F000F",
     "character": "󰀏",
-    "aliases": ["done_circle"]
+    "aliases": [
+      "done_circle"
+    ]
   },
   {
     "name": "arrowshape_up_to_line_fill",
@@ -117,19 +141,26 @@
     "name": "checkmark_square_on_square",
     "unicode_hex": "U+F0011",
     "character": "󰀑",
-    "aliases": ["done_all"]
+    "aliases": [
+      "done_all"
+    ]
   },
   {
     "name": "checkmark_square",
     "unicode_hex": "U+F0012",
     "character": "󰀒",
-    "aliases": ["done_square"]
+    "aliases": [
+      "done_square"
+    ]
   },
   {
     "name": "checkmark",
     "unicode_hex": "U+F0013",
     "character": "󰀓",
-    "aliases": ["done", "confirm"]
+    "aliases": [
+      "done",
+      "confirm"
+    ]
   },
   {
     "name": "circle_filled_and_circle",
@@ -195,55 +226,78 @@
     "name": "gearshape_fill",
     "unicode_hex": "U+F001F",
     "character": "󰀟",
-    "aliases": ["settings_fill", "gear_fill"]
+    "aliases": [
+      "settings_fill",
+      "gear_fill"
+    ]
   },
   {
     "name": "gearshape",
     "unicode_hex": "U+F0020",
     "character": "󰀠",
-    "aliases": ["settings", "gear"]
+    "aliases": [
+      "settings",
+      "gear"
+    ]
   },
   {
     "name": "heart_fill",
     "unicode_hex": "U+F0021",
     "character": "󰀡",
-    "aliases": ["favorite_fill", "like_fill"]
+    "aliases": [
+      "favorite_fill",
+      "like_fill"
+    ]
   },
   {
     "name": "heart_gap",
     "unicode_hex": "U+F0022",
     "character": "󰀢",
-    "aliases": ["heart_outline"]
+    "aliases": [
+      "heart_outline"
+    ]
   },
   {
     "name": "heart_gap_fill",
     "unicode_hex": "U+F0023",
     "character": "󰀣",
-    "aliases": ["heart_outline_fill"]
+    "aliases": [
+      "heart_outline_fill"
+    ]
   },
   {
     "name": "heart_slash",
     "unicode_hex": "U+F0024",
     "character": "󰀤",
-    "aliases": ["unlike", "dislike"]
+    "aliases": [
+      "unlike",
+      "dislike"
+    ]
   },
   {
     "name": "heart",
     "unicode_hex": "U+F0025",
     "character": "󰀥",
-    "aliases": ["favorite", "like"]
+    "aliases": [
+      "favorite",
+      "like"
+    ]
   },
   {
     "name": "house_fill",
     "unicode_hex": "U+F0026",
     "character": "󰀦",
-    "aliases": ["home_fill"]
+    "aliases": [
+      "home_fill"
+    ]
   },
   {
     "name": "house",
     "unicode_hex": "U+F0027",
     "character": "󰀧",
-    "aliases": ["home"]
+    "aliases": [
+      "home"
+    ]
   },
   {
     "name": "line_viewfinder",
@@ -255,37 +309,49 @@
     "name": "magnifyingglass",
     "unicode_hex": "U+F0029",
     "character": "󰀩",
-    "aliases": ["search"]
+    "aliases": [
+      "search"
+    ]
   },
   {
     "name": "minus_circle_fill",
     "unicode_hex": "U+F002A",
     "character": "󰀪",
-    "aliases": ["remove_circle_fill"]
+    "aliases": [
+      "remove_circle_fill"
+    ]
   },
   {
     "name": "minus_circle",
     "unicode_hex": "U+F002B",
     "character": "󰀫",
-    "aliases": ["remove_circle"]
+    "aliases": [
+      "remove_circle"
+    ]
   },
   {
     "name": "minus",
     "unicode_hex": "U+F002C",
     "character": "󰀬",
-    "aliases": ["remove"]
+    "aliases": [
+      "remove"
+    ]
   },
   {
     "name": "moon_fill",
     "unicode_hex": "U+F002D",
     "character": "󰀭",
-    "aliases": ["night_fill"]
+    "aliases": [
+      "night_fill"
+    ]
   },
   {
     "name": "moon",
     "unicode_hex": "U+F002E",
     "character": "󰀮",
-    "aliases": ["night"]
+    "aliases": [
+      "night"
+    ]
   },
   {
     "name": "paperplane_fill",
@@ -309,25 +375,33 @@
     "name": "pin",
     "unicode_hex": "U+F0032",
     "character": "󰀲",
-    "aliases": ["location_pin"]
+    "aliases": [
+      "location_pin"
+    ]
   },
   {
     "name": "plus_circle_fill",
     "unicode_hex": "U+F0033",
     "character": "󰀳",
-    "aliases": ["add_circle_fill"]
+    "aliases": [
+      "add_circle_fill"
+    ]
   },
   {
     "name": "plus_circle",
     "unicode_hex": "U+F0034",
     "character": "󰀴",
-    "aliases": ["add_circle"]
+    "aliases": [
+      "add_circle"
+    ]
   },
   {
     "name": "plus",
     "unicode_hex": "U+F0035",
     "character": "󰀵",
-    "aliases": ["add"]
+    "aliases": [
+      "add"
+    ]
   },
   {
     "name": "power",
@@ -381,37 +455,51 @@
     "name": "speaker_fill",
     "unicode_hex": "U+F003F",
     "character": "󰀿",
-    "aliases": ["volume_fill"]
+    "aliases": [
+      "volume_fill"
+    ]
   },
   {
     "name": "speaker_minus",
     "unicode_hex": "U+F0040",
     "character": "󰁀",
-    "aliases": ["volume_down"]
+    "aliases": [
+      "volume_down"
+    ]
   },
   {
     "name": "speaker_plus",
     "unicode_hex": "U+F0041",
     "character": "󰁁",
-    "aliases": ["volume_up"]
+    "aliases": [
+      "volume_up"
+    ]
   },
   {
     "name": "speaker_slash_fill",
     "unicode_hex": "U+F0042",
     "character": "󰁂",
-    "aliases": ["mute_fill", "volume_off_fill"]
+    "aliases": [
+      "mute_fill",
+      "volume_off_fill"
+    ]
   },
   {
     "name": "speaker_slash",
     "unicode_hex": "U+F0043",
     "character": "󰁃",
-    "aliases": ["mute", "volume_off"]
+    "aliases": [
+      "mute",
+      "volume_off"
+    ]
   },
   {
     "name": "speaker",
     "unicode_hex": "U+F0044",
     "character": "󰁄",
-    "aliases": ["volume"]
+    "aliases": [
+      "volume"
+    ]
   },
   {
     "name": "speaker_wave_1_fill",
@@ -465,19 +553,26 @@
     "name": "star",
     "unicode_hex": "U+F004E",
     "character": "󰁎",
-    "aliases": ["favorite", "rate"]
+    "aliases": [
+      "favorite",
+      "rate"
+    ]
   },
   {
     "name": "sun_max_fill",
     "unicode_hex": "U+F004F",
     "character": "󰁏",
-    "aliases": ["sun_full_fill"]
+    "aliases": [
+      "sun_full_fill"
+    ]
   },
   {
     "name": "sun_max",
     "unicode_hex": "U+F0050",
     "character": "󰁐",
-    "aliases": ["sun_full"]
+    "aliases": [
+      "sun_full"
+    ]
   },
   {
     "name": "sun_min",
@@ -489,25 +584,37 @@
     "name": "trash_fill",
     "unicode_hex": "U+F0052",
     "character": "󰁒",
-    "aliases": ["delete_fill", "remove_fill"]
+    "aliases": [
+      "delete_fill",
+      "remove_fill"
+    ]
   },
   {
     "name": "xmark_circle_fill",
     "unicode_hex": "U+F0054",
     "character": "󰁔",
-    "aliases": ["close_circle_fill", "cancel_circle_fill"]
+    "aliases": [
+      "close_circle_fill",
+      "cancel_circle_fill"
+    ]
   },
   {
     "name": "xmark_circle",
     "unicode_hex": "U+F0055",
     "character": "󰁕",
-    "aliases": ["close_circle", "cancel_circle"]
+    "aliases": [
+      "close_circle",
+      "cancel_circle"
+    ]
   },
   {
     "name": "xmark",
     "unicode_hex": "U+F0056",
     "character": "󰁖",
-    "aliases": ["close", "cancel"]
+    "aliases": [
+      "close",
+      "cancel"
+    ]
   },
   {
     "name": "a_square_fill",
@@ -561,7 +668,9 @@
     "name": "cut",
     "unicode_hex": "U+F005F",
     "character": "󰁟",
-    "aliases": ["scissors"]
+    "aliases": [
+      "scissors"
+    ]
   },
   {
     "name": "dot_grid_1x2",
@@ -633,7 +742,9 @@
     "name": "pencil_line",
     "unicode_hex": "U+F006B",
     "character": "󰁫",
-    "aliases": ["pencil_underline"]
+    "aliases": [
+      "pencil_underline"
+    ]
   },
   {
     "name": "pencil_waveform",
@@ -645,13 +756,19 @@
     "name": "plus_square_on_square_fill",
     "unicode_hex": "U+F006D",
     "character": "󰁭",
-    "aliases": ["copy_fill", "duplicate_fill"]
+    "aliases": [
+      "copy_fill",
+      "duplicate_fill"
+    ]
   },
   {
     "name": "plus_square_on_square",
     "unicode_hex": "U+F006E",
     "character": "󰁮",
-    "aliases": ["copy", "duplicate"]
+    "aliases": [
+      "copy",
+      "duplicate"
+    ]
   },
   {
     "name": "rectangle_and_cut",
@@ -681,13 +798,17 @@
     "name": "square_and_pencil",
     "unicode_hex": "U+F0073",
     "character": "󰁳",
-    "aliases": ["edit"]
+    "aliases": [
+      "edit"
+    ]
   },
   {
     "name": "square_and_pencil_fill",
     "unicode_hex": "U+F0074",
     "character": "󰁴",
-    "aliases": ["edit_fill"]
+    "aliases": [
+      "edit_fill"
+    ]
   },
   {
     "name": "square",
@@ -807,49 +928,72 @@
     "name": "envelope",
     "unicode_hex": "U+F0088",
     "character": "󰂈",
-    "aliases": ["mail", "email"]
+    "aliases": [
+      "mail",
+      "email"
+    ]
   },
   {
     "name": "envelope_fill",
     "unicode_hex": "U+F0089",
     "character": "󰂉",
-    "aliases": ["mail_fill", "email_fill"]
+    "aliases": [
+      "mail_fill",
+      "email_fill"
+    ]
   },
   {
     "name": "envelope_open_fill",
     "unicode_hex": "U+F008A",
     "character": "󰂊",
-    "aliases": ["mail_open_fill", "email_open_fill"]
+    "aliases": [
+      "mail_open_fill",
+      "email_open_fill"
+    ]
   },
   {
     "name": "envelope_open",
     "unicode_hex": "U+F008B",
     "character": "󰂋",
-    "aliases": ["mail_open", "email_open"]
+    "aliases": [
+      "mail_open",
+      "email_open"
+    ]
   },
   {
     "name": "message_fill",
     "unicode_hex": "U+F008C",
     "character": "󰂌",
-    "aliases": ["chat_fill", "message_fill"]
+    "aliases": [
+      "chat_fill",
+      "message_fill"
+    ]
   },
   {
     "name": "message_on_message_fill",
     "unicode_hex": "U+F008D",
     "character": "󰂍",
-    "aliases": ["messages_fill"]
+    "aliases": [
+      "messages_fill"
+    ]
   },
   {
     "name": "message_on_message",
     "unicode_hex": "U+F008E",
     "character": "󰂎",
-    "aliases": ["messages", "multiple_messages"]
+    "aliases": [
+      "messages",
+      "multiple_messages"
+    ]
   },
   {
     "name": "message",
     "unicode_hex": "U+F008F",
     "character": "󰂏",
-    "aliases": ["chat", "message"]
+    "aliases": [
+      "chat",
+      "message"
+    ]
   },
   {
     "name": "phone_arrow_down_left_fill",
@@ -879,61 +1023,81 @@
     "name": "phone_badge_ai_fill",
     "unicode_hex": "U+F0096",
     "character": "󰂖",
-    "aliases": ["phone_ai_fill"]
+    "aliases": [
+      "phone_ai_fill"
+    ]
   },
   {
     "name": "phone_badge_ai",
     "unicode_hex": "U+F0097",
     "character": "󰂗",
-    "aliases": ["phone_ai"]
+    "aliases": [
+      "phone_ai"
+    ]
   },
   {
     "name": "phone_badge_nosign",
     "unicode_hex": "U+F0098",
     "character": "󰂘",
-    "aliases": ["phone_muted"]
+    "aliases": [
+      "phone_muted"
+    ]
   },
   {
     "name": "phone_badge_video_fill",
     "unicode_hex": "U+F0099",
     "character": "󰂙",
-    "aliases": ["video_call_fill"]
+    "aliases": [
+      "video_call_fill"
+    ]
   },
   {
     "name": "phone",
     "unicode_hex": "U+F009A",
     "character": "󰂚",
-    "aliases": ["call"]
+    "aliases": [
+      "call"
+    ]
   },
   {
     "name": "phone_missed",
     "unicode_hex": "U+F009B",
     "character": "󰂛",
-    "aliases": ["missed_call"]
+    "aliases": [
+      "missed_call"
+    ]
   },
   {
     "name": "phone_list",
     "unicode_hex": "U+F009C",
     "character": "󰂜",
-    "aliases": ["call_list"]
+    "aliases": [
+      "call_list"
+    ]
   },
   {
     "name": "phone_list_fill",
     "unicode_hex": "U+F009D",
     "character": "󰂝",
-    "aliases": ["call_list_fill"]
+    "aliases": [
+      "call_list_fill"
+    ]
   },
   {
     "name": "phone_fill",
     "unicode_hex": "U+F009E",
     "character": "󰂞",
-    "aliases": ["call_fill"]
+    "aliases": [
+      "call_fill"
+    ]
   },
   {
     "name": "phone_down_fill",
     "unicode_hex": "U+F009F",
     "character": "󰂟",
-    "aliases": ["hangup_fill"]
+    "aliases": [
+      "hangup_fill"
+    ]
   },
   {
     "name": "rcs_below_arrow_down_left",
@@ -957,13 +1121,17 @@
     "name": "video_fill",
     "unicode_hex": "U+F00A3",
     "character": "󰂣",
-    "aliases": ["film_fill"]
+    "aliases": [
+      "film_fill"
+    ]
   },
   {
     "name": "video",
     "unicode_hex": "U+F00A4",
     "character": "󰂤",
-    "aliases": ["film"]
+    "aliases": [
+      "film"
+    ]
   },
   {
     "name": "kidswatch_fill",
@@ -1005,13 +1173,17 @@
     "name": "music_note_list_fill",
     "unicode_hex": "U+F00AB",
     "character": "󰂫",
-    "aliases": ["playlist_fill"]
+    "aliases": [
+      "playlist_fill"
+    ]
   },
   {
     "name": "music_note_list",
     "unicode_hex": "U+F00AC",
     "character": "󰂬",
-    "aliases": ["playlist"]
+    "aliases": [
+      "playlist"
+    ]
   },
   {
     "name": "music",
@@ -1053,7 +1225,9 @@
     "name": "play_circle",
     "unicode_hex": "U+F00B3",
     "character": "󰂳",
-    "aliases": ["play_outline"]
+    "aliases": [
+      "play_outline"
+    ]
   },
   {
     "name": "play_fill",
@@ -1107,7 +1281,10 @@
     "name": "doc_text",
     "unicode_hex": "U+F00BC",
     "character": "󰂼",
-    "aliases": ["document", "file"]
+    "aliases": [
+      "document",
+      "file"
+    ]
   },
   {
     "name": "doc",
@@ -1119,25 +1296,35 @@
     "name": "doc_text_fill",
     "unicode_hex": "U+F00BF",
     "character": "󰂿",
-    "aliases": ["document_fill", "file_fill"]
+    "aliases": [
+      "document_fill",
+      "file_fill"
+    ]
   },
   {
     "name": "doc_text_on_doc_text",
     "unicode_hex": "U+F00C0",
     "character": "󰃀",
-    "aliases": ["documents", "copy_document"]
+    "aliases": [
+      "documents",
+      "copy_document"
+    ]
   },
   {
     "name": "doc_plaintext",
     "unicode_hex": "U+F00C1",
     "character": "󰃁",
-    "aliases": ["text_file"]
+    "aliases": [
+      "text_file"
+    ]
   },
   {
     "name": "doc_plaintext_fill",
     "unicode_hex": "U+F00C2",
     "character": "󰃂",
-    "aliases": ["text_file_fill"]
+    "aliases": [
+      "text_file_fill"
+    ]
   },
   {
     "name": "doc_text_badge_nosign",
@@ -1155,25 +1342,34 @@
     "name": "folder",
     "unicode_hex": "U+F00C5",
     "character": "󰃅",
-    "aliases": ["directory"]
+    "aliases": [
+      "directory"
+    ]
   },
   {
     "name": "folder_fill",
     "unicode_hex": "U+F00C6",
     "character": "󰃆",
-    "aliases": ["directory_fill"]
+    "aliases": [
+      "directory_fill"
+    ]
   },
   {
     "name": "arrow_clockwise",
     "unicode_hex": "U+F00C7",
     "character": "󰃇",
-    "aliases": ["refresh", "reload"]
+    "aliases": [
+      "refresh",
+      "reload"
+    ]
   },
   {
     "name": "arrow_counterclockwise",
     "unicode_hex": "U+F00C8",
     "character": "󰃈",
-    "aliases": ["undo_arrow"]
+    "aliases": [
+      "undo_arrow"
+    ]
   },
   {
     "name": "arrow_down_right_and_arrow_up_left",
@@ -1185,7 +1381,9 @@
     "name": "arrow_left",
     "unicode_hex": "U+F00CA",
     "character": "󰃊",
-    "aliases": ["back"]
+    "aliases": [
+      "back"
+    ]
   },
   {
     "name": "arrow_right_up_and_square",
@@ -1227,7 +1425,9 @@
     "name": "arrowshape_turn_up_left",
     "unicode_hex": "U+F00D1",
     "character": "󰃑",
-    "aliases": ["reply"]
+    "aliases": [
+      "reply"
+    ]
   },
   {
     "name": "arrowshape_up_to_line",
@@ -1239,7 +1439,10 @@
     "name": "square_and_arrow_down",
     "unicode_hex": "U+F00D4",
     "character": "󰃔",
-    "aliases": ["download", "save_as"]
+    "aliases": [
+      "download",
+      "save_as"
+    ]
   },
   {
     "name": "rectangle_and_arrowshape_turn_up_right",
@@ -1449,25 +1652,33 @@
     "name": "gearshape_fill_small",
     "unicode_hex": "U+F00F7",
     "character": "󰃷",
-    "aliases": ["settings_fill_small"]
+    "aliases": [
+      "settings_fill_small"
+    ]
   },
   {
     "name": "gearshape_fill_large",
     "unicode_hex": "U+F00F8",
     "character": "󰃸",
-    "aliases": ["settings_fill_large"]
+    "aliases": [
+      "settings_fill_large"
+    ]
   },
   {
     "name": "gearshape_small",
     "unicode_hex": "U+F00F9",
     "character": "󰃹",
-    "aliases": ["settings_small"]
+    "aliases": [
+      "settings_small"
+    ]
   },
   {
     "name": "gearshape_large",
     "unicode_hex": "U+F00FA",
     "character": "󰃺",
-    "aliases": ["settings_large"]
+    "aliases": [
+      "settings_large"
+    ]
   },
   {
     "name": "hobbyhorse_fill",
@@ -1497,13 +1708,17 @@
     "name": "questionmark_circle_fill",
     "unicode_hex": "U+F00FF",
     "character": "󰃿",
-    "aliases": ["help_circle_fill"]
+    "aliases": [
+      "help_circle_fill"
+    ]
   },
   {
     "name": "questionmark_circle",
     "unicode_hex": "U+F0100",
     "character": "󰄀",
-    "aliases": ["help_circle"]
+    "aliases": [
+      "help_circle"
+    ]
   },
   {
     "name": "rectangle_below_heat_waves",
@@ -1545,31 +1760,41 @@
     "name": "arrow_clockwise_circle_fill",
     "unicode_hex": "U+F0107",
     "character": "󰄇",
-    "aliases": ["refresh_circle_fill"]
+    "aliases": [
+      "refresh_circle_fill"
+    ]
   },
   {
     "name": "exclamationmark_circle_fill",
     "unicode_hex": "U+F0108",
     "character": "󰄈",
-    "aliases": ["alert_circle_fill"]
+    "aliases": [
+      "alert_circle_fill"
+    ]
   },
   {
     "name": "exclamationmark_circle",
     "unicode_hex": "U+F0109",
     "character": "󰄉",
-    "aliases": ["alert_circle"]
+    "aliases": [
+      "alert_circle"
+    ]
   },
   {
     "name": "exclamationmark_triangle",
     "unicode_hex": "U+F010A",
     "character": "󰄊",
-    "aliases": ["warning"]
+    "aliases": [
+      "warning"
+    ]
   },
   {
     "name": "exclamationmark",
     "unicode_hex": "U+F010B",
     "character": "󰄋",
-    "aliases": ["alert"]
+    "aliases": [
+      "alert"
+    ]
   },
   {
     "name": "light_flashlight_on_fill",
@@ -1689,13 +1914,19 @@
     "name": "eye_slash",
     "unicode_hex": "U+F011F",
     "character": "󰄟",
-    "aliases": ["hide", "invisible"]
+    "aliases": [
+      "hide",
+      "invisible"
+    ]
   },
   {
     "name": "eye",
     "unicode_hex": "U+F0120",
     "character": "󰄠",
-    "aliases": ["view", "show"]
+    "aliases": [
+      "view",
+      "show"
+    ]
   },
   {
     "name": "uF0121",
@@ -1785,13 +2016,17 @@
     "name": "star_circle_fill",
     "unicode_hex": "U+F012F",
     "character": "󰄯",
-    "aliases": ["rate_circle_fill"]
+    "aliases": [
+      "rate_circle_fill"
+    ]
   },
   {
     "name": "star_circle",
     "unicode_hex": "U+F0130",
     "character": "󰄰",
-    "aliases": ["rate_circle"]
+    "aliases": [
+      "rate_circle"
+    ]
   },
   {
     "name": "waveform_path_ecg_magnifyingglass",
@@ -1989,7 +2224,9 @@
     "name": "plus_square_dashed_on_square",
     "unicode_hex": "U+F0151",
     "character": "󰅑",
-    "aliases": ["copy_dashed"]
+    "aliases": [
+      "copy_dashed"
+    ]
   },
   {
     "name": "scribble",
@@ -2301,7 +2538,9 @@
     "name": "book",
     "unicode_hex": "U+F0185",
     "character": "󰆅",
-    "aliases": ["reading"]
+    "aliases": [
+      "reading"
+    ]
   },
   {
     "name": "bookmark_book_closed",
@@ -2343,13 +2582,19 @@
     "name": "doc_zipper_fill",
     "unicode_hex": "U+F018C",
     "character": "󰆌",
-    "aliases": ["zip_fill", "archive_fill"]
+    "aliases": [
+      "zip_fill",
+      "archive_fill"
+    ]
   },
   {
     "name": "doc_zipper",
     "unicode_hex": "U+F018D",
     "character": "󰆍",
-    "aliases": ["zip", "archive"]
+    "aliases": [
+      "zip",
+      "archive"
+    ]
   },
   {
     "name": "dot_circle_on_line_fill",
@@ -2529,13 +2774,17 @@
     "name": "flag_fill",
     "unicode_hex": "U+F01AB",
     "character": "󰆫",
-    "aliases": ["mark_fill"]
+    "aliases": [
+      "mark_fill"
+    ]
   },
   {
     "name": "flag",
     "unicode_hex": "U+F01AC",
     "character": "󰆬",
-    "aliases": ["mark"]
+    "aliases": [
+      "mark"
+    ]
   },
   {
     "name": "fuelpump_fill",
@@ -2757,19 +3006,26 @@
     "name": "bell_fill",
     "unicode_hex": "U+F01D1",
     "character": "󰇑",
-    "aliases": ["notification_fill"]
+    "aliases": [
+      "notification_fill"
+    ]
   },
   {
     "name": "bell_slash_fill",
     "unicode_hex": "U+F01D2",
     "character": "󰇒",
-    "aliases": ["notification_off_fill"]
+    "aliases": [
+      "notification_off_fill"
+    ]
   },
   {
     "name": "bell_slash",
     "unicode_hex": "U+F01D3",
     "character": "󰇓",
-    "aliases": ["notification_off", "mute_notifications"]
+    "aliases": [
+      "notification_off",
+      "mute_notifications"
+    ]
   },
   {
     "name": "bell_badge_clock",
@@ -2781,7 +3037,9 @@
     "name": "bell",
     "unicode_hex": "U+F01D5",
     "character": "󰇕",
-    "aliases": ["notification"]
+    "aliases": [
+      "notification"
+    ]
   },
   {
     "name": "character_arrow_clockwise",
@@ -2805,13 +3063,17 @@
     "name": "checkmark_square_on_square_fill",
     "unicode_hex": "U+F01D9",
     "character": "󰇙",
-    "aliases": ["done_all_fill"]
+    "aliases": [
+      "done_all_fill"
+    ]
   },
   {
     "name": "checkmark_square_fill",
     "unicode_hex": "U+F01DA",
     "character": "󰇚",
-    "aliases": ["done_square_fill"]
+    "aliases": [
+      "done_square_fill"
+    ]
   },
   {
     "name": "discover_fill",
@@ -2847,7 +3109,9 @@
     "name": "heart_circle_fill",
     "unicode_hex": "U+F01E0",
     "character": "󰇠",
-    "aliases": ["favorite_circle_fill"]
+    "aliases": [
+      "favorite_circle_fill"
+    ]
   },
   {
     "name": "search_things",
@@ -3309,7 +3573,9 @@
     "name": "arrow_down_to_line_circle_fill",
     "unicode_hex": "U+F022D",
     "character": "󰈭",
-    "aliases": ["download_circle_fill"]
+    "aliases": [
+      "download_circle_fill"
+    ]
   },
   {
     "name": "arrow_down",
@@ -3333,7 +3599,10 @@
     "name": "arrow_right",
     "unicode_hex": "U+F0231",
     "character": "󰈱",
-    "aliases": ["next", "forward"]
+    "aliases": [
+      "next",
+      "forward"
+    ]
   },
   {
     "name": "arrow_up_circle_fill",
@@ -3357,19 +3626,25 @@
     "name": "arrowshape_left",
     "unicode_hex": "U+F0235",
     "character": "󰈵",
-    "aliases": ["back_chevron"]
+    "aliases": [
+      "back_chevron"
+    ]
   },
   {
     "name": "arrowshape_right",
     "unicode_hex": "U+F0236",
     "character": "󰈶",
-    "aliases": ["forward_chevron"]
+    "aliases": [
+      "forward_chevron"
+    ]
   },
   {
     "name": "arrowshape_turn_up_left_circle_fill",
     "unicode_hex": "U+F0237",
     "character": "󰈷",
-    "aliases": ["reply_circle_fill"]
+    "aliases": [
+      "reply_circle_fill"
+    ]
   },
   {
     "name": "arrowshape_up_circle_fill",
@@ -3381,7 +3656,9 @@
     "name": "arrowshape_up_fill",
     "unicode_hex": "U+F0239",
     "character": "󰈹",
-    "aliases": ["up_chevron_fill"]
+    "aliases": [
+      "up_chevron_fill"
+    ]
   },
   {
     "name": "arrowshape_up_frame_fill",
@@ -3405,7 +3682,9 @@
     "name": "arrowshape_up",
     "unicode_hex": "U+F023D",
     "character": "󰈽",
-    "aliases": ["up_chevron"]
+    "aliases": [
+      "up_chevron"
+    ]
   },
   {
     "name": "arrowshape_right_fill",
@@ -3417,13 +3696,17 @@
     "name": "arrowtriangle_down_fill",
     "unicode_hex": "U+F023F",
     "character": "󰈿",
-    "aliases": ["down_triangle"]
+    "aliases": [
+      "down_triangle"
+    ]
   },
   {
     "name": "arrowtriangle_up_fill",
     "unicode_hex": "U+F0240",
     "character": "󰉀",
-    "aliases": ["up_triangle"]
+    "aliases": [
+      "up_triangle"
+    ]
   },
   {
     "name": "cloud_and_arrow_up",
@@ -3585,13 +3868,19 @@
     "name": "bolt_circle_fill",
     "unicode_hex": "U+F025C",
     "character": "󰉜",
-    "aliases": ["flash_circle_fill", "power_circle_fill"]
+    "aliases": [
+      "flash_circle_fill",
+      "power_circle_fill"
+    ]
   },
   {
     "name": "bolt_circle",
     "unicode_hex": "U+F025D",
     "character": "󰉝",
-    "aliases": ["flash_circle", "power_circle"]
+    "aliases": [
+      "flash_circle",
+      "power_circle"
+    ]
   },
   {
     "name": "bolt_filled_circle",
@@ -3621,7 +3910,10 @@
     "name": "bolt",
     "unicode_hex": "U+F0262",
     "character": "󰉢",
-    "aliases": ["flash", "power"]
+    "aliases": [
+      "flash",
+      "power"
+    ]
   },
   {
     "name": "bus_doubledecker",
@@ -3927,13 +4219,17 @@
     "name": "info_circle_fill",
     "unicode_hex": "U+F0295",
     "character": "󰊕",
-    "aliases": ["about_circle_fill"]
+    "aliases": [
+      "about_circle_fill"
+    ]
   },
   {
     "name": "info_circle",
     "unicode_hex": "U+F0296",
     "character": "󰊖",
-    "aliases": ["about_circle"]
+    "aliases": [
+      "about_circle"
+    ]
   },
   {
     "name": "info_shield",
@@ -3969,7 +4265,10 @@
     "name": "lightbulb",
     "unicode_hex": "U+F029C",
     "character": "󰊜",
-    "aliases": ["tip", "idea"]
+    "aliases": [
+      "tip",
+      "idea"
+    ]
   },
   {
     "name": "lightsnow",
@@ -4689,13 +4988,17 @@
     "name": "mic_circle",
     "unicode_hex": "U+F0314",
     "character": "󰌔",
-    "aliases": ["microphone_circle"]
+    "aliases": [
+      "microphone_circle"
+    ]
   },
   {
     "name": "mic_fill",
     "unicode_hex": "U+F0315",
     "character": "󰌕",
-    "aliases": ["microphone_fill"]
+    "aliases": [
+      "microphone_fill"
+    ]
   },
   {
     "name": "mic_filled_and_mic",
@@ -4707,7 +5010,9 @@
     "name": "mic_slash_fill",
     "unicode_hex": "U+F0317",
     "character": "󰌗",
-    "aliases": ["mic_off_fill"]
+    "aliases": [
+      "mic_off_fill"
+    ]
   },
   {
     "name": "onehand",
@@ -5841,7 +6146,9 @@
     "name": "calendar",
     "unicode_hex": "U+F03DA",
     "character": "󰏚",
-    "aliases": ["date"]
+    "aliases": [
+      "date"
+    ]
   },
   {
     "name": "checkmark_calendar",
@@ -5859,7 +6166,9 @@
     "name": "clock",
     "unicode_hex": "U+F03DD",
     "character": "󰏝",
-    "aliases": ["time"]
+    "aliases": [
+      "time"
+    ]
   },
   {
     "name": "cloud_2_fill",
@@ -6075,7 +6384,9 @@
     "name": "stopwatch",
     "unicode_hex": "U+F0401",
     "character": "󰐁",
-    "aliases": ["timer"]
+    "aliases": [
+      "timer"
+    ]
   },
   {
     "name": "stopwatch_fill",
@@ -6189,7 +6500,9 @@
     "name": "warning",
     "unicode_hex": "U+F0415",
     "character": "󰐕",
-    "aliases": ["warn"]
+    "aliases": [
+      "warn"
+    ]
   },
   {
     "name": "line_below_arrowtriangle_up_circle_fill",
@@ -6243,7 +6556,9 @@
     "name": "arrow_left_arrow_right",
     "unicode_hex": "U+F041E",
     "character": "󰐞",
-    "aliases": ["swap"]
+    "aliases": [
+      "swap"
+    ]
   },
   {
     "name": "arrow_triangle_2_circlepath_camera",
@@ -6261,7 +6576,9 @@
     "name": "arrow_uturn_down",
     "unicode_hex": "U+F0421",
     "character": "󰐡",
-    "aliases": ["return_down"]
+    "aliases": [
+      "return_down"
+    ]
   },
   {
     "name": "artistic_virtualization",
@@ -6399,7 +6716,9 @@
     "name": "camera_fill",
     "unicode_hex": "U+F0438",
     "character": "󰐸",
-    "aliases": ["photo_fill"]
+    "aliases": [
+      "photo_fill"
+    ]
   },
   {
     "name": "camera_filters_slash",
@@ -6609,7 +6928,9 @@
     "name": "camera",
     "unicode_hex": "U+F045B",
     "character": "󰑛",
-    "aliases": ["photo"]
+    "aliases": [
+      "photo"
+    ]
   },
   {
     "name": "checkered_magnifyingglass",
@@ -6747,7 +7068,9 @@
     "name": "ellipsis_bubble",
     "unicode_hex": "U+F0473",
     "character": "󰑳",
-    "aliases": ["more_bubble"]
+    "aliases": [
+      "more_bubble"
+    ]
   },
   {
     "name": "enhance_eyes",
@@ -6981,7 +7304,9 @@
     "name": "key_fill",
     "unicode_hex": "U+F049A",
     "character": "󰒚",
-    "aliases": ["password_fill"]
+    "aliases": [
+      "password_fill"
+    ]
   },
   {
     "name": "key_horizontal",
@@ -7011,7 +7336,9 @@
     "name": "key",
     "unicode_hex": "U+F049F",
     "character": "󰒟",
-    "aliases": ["password"]
+    "aliases": [
+      "password"
+    ]
   },
   {
     "name": "puzzle",
@@ -7023,13 +7350,17 @@
     "name": "rectangle_on_rectangle_fill",
     "unicode_hex": "U+F04A1",
     "character": "󰒡",
-    "aliases": ["fullscreen_alt_fill"]
+    "aliases": [
+      "fullscreen_alt_fill"
+    ]
   },
   {
     "name": "rectangle_on_rectangle",
     "unicode_hex": "U+F04A2",
     "character": "󰒢",
-    "aliases": ["fullscreen_alt"]
+    "aliases": [
+      "fullscreen_alt"
+    ]
   },
   {
     "name": "resolution_video",
@@ -7215,7 +7546,10 @@
     "name": "lock_fill",
     "unicode_hex": "U+F04C1",
     "character": "󰓁",
-    "aliases": ["secure_fill", "locked_fill"]
+    "aliases": [
+      "secure_fill",
+      "locked_fill"
+    ]
   },
   {
     "name": "lock_open_badge_child",
@@ -7365,7 +7699,9 @@
     "name": "person_crop_circle_fill",
     "unicode_hex": "U+F04DA",
     "character": "󰓚",
-    "aliases": ["user_avatar_fill"]
+    "aliases": [
+      "user_avatar_fill"
+    ]
   },
   {
     "name": "person_filled_shield_slash",
@@ -7557,7 +7893,9 @@
     "name": "sun",
     "unicode_hex": "U+F04FA",
     "character": "󰓺",
-    "aliases": ["brightness"]
+    "aliases": [
+      "brightness"
+    ]
   },
   {
     "name": "switch_camera",
@@ -8229,7 +8567,9 @@
     "name": "mic_circle_fill",
     "unicode_hex": "U+F056B",
     "character": "󰕫",
-    "aliases": ["microphone_circle_fill"]
+    "aliases": [
+      "microphone_circle_fill"
+    ]
   },
   {
     "name": "mic_circle_filled",
@@ -8247,13 +8587,17 @@
     "name": "moon_circle_fill",
     "unicode_hex": "U+F056E",
     "character": "󰕮",
-    "aliases": ["night_circle_fill"]
+    "aliases": [
+      "night_circle_fill"
+    ]
   },
   {
     "name": "moon_slash_circle",
     "unicode_hex": "U+F056F",
     "character": "󰕯",
-    "aliases": ["night_off_circle"]
+    "aliases": [
+      "night_off_circle"
+    ]
   },
   {
     "name": "more",
@@ -8901,13 +9245,20 @@
     "name": "person_2_fill",
     "unicode_hex": "U+F05DB",
     "character": "󰗛",
-    "aliases": ["users_fill", "group_fill"]
+    "aliases": [
+      "users_fill",
+      "group_fill"
+    ]
   },
   {
     "name": "person_2",
     "unicode_hex": "U+F05DC",
     "character": "󰗜",
-    "aliases": ["users", "group", "people"]
+    "aliases": [
+      "users",
+      "group",
+      "people"
+    ]
   },
   {
     "name": "person_badge_heart_fill",
@@ -8937,7 +9288,10 @@
     "name": "person_fill",
     "unicode_hex": "U+F05E1",
     "character": "󰗡",
-    "aliases": ["user_fill", "account_fill"]
+    "aliases": [
+      "user_fill",
+      "account_fill"
+    ]
   },
   {
     "name": "person_filled_2_badge_plus_fill",
@@ -8961,7 +9315,10 @@
     "name": "person",
     "unicode_hex": "U+F05E5",
     "character": "󰗥",
-    "aliases": ["user", "account"]
+    "aliases": [
+      "user",
+      "account"
+    ]
   },
   {
     "name": "person_line_turn_down_right_person_fill",
@@ -9315,7 +9672,9 @@
     "name": "minus_square_fill",
     "unicode_hex": "U+F0620",
     "character": "󰘠",
-    "aliases": ["remove_square_fill"]
+    "aliases": [
+      "remove_square_fill"
+    ]
   },
   {
     "name": "mixed_humidity",
@@ -9369,7 +9728,9 @@
     "name": "plus_square_fill",
     "unicode_hex": "U+F0629",
     "character": "󰘩",
-    "aliases": ["add_square_fill"]
+    "aliases": [
+      "add_square_fill"
+    ]
   },
   {
     "name": "radial",
@@ -9969,7 +10330,9 @@
     "name": "wifi_slash",
     "unicode_hex": "U+F0691",
     "character": "󰚑",
-    "aliases": ["wifi_off"]
+    "aliases": [
+      "wifi_off"
+    ]
   },
   {
     "name": "word_book",
@@ -10053,13 +10416,17 @@
     "name": "arrow_left_circle",
     "unicode_hex": "U+F069F",
     "character": "󰚟",
-    "aliases": ["back_circle"]
+    "aliases": [
+      "back_circle"
+    ]
   },
   {
     "name": "arrow_right_circle",
     "unicode_hex": "U+F06A0",
     "character": "󰚠",
-    "aliases": ["next_circle"]
+    "aliases": [
+      "next_circle"
+    ]
   },
   {
     "name": "arrow_triangle_divide",
@@ -10389,7 +10756,9 @@
     "name": "exclamationmark_triangle_fill",
     "unicode_hex": "U+F06D7",
     "character": "󰛗",
-    "aliases": ["warning_fill"]
+    "aliases": [
+      "warning_fill"
+    ]
   },
   {
     "name": "fat_percentage",
@@ -11127,7 +11496,10 @@
     "name": "mic_slash",
     "unicode_hex": "U+F0758",
     "character": "󰝘",
-    "aliases": ["mic_off", "mute_mic"]
+    "aliases": [
+      "mic_off",
+      "mute_mic"
+    ]
   },
   {
     "name": "min_water_temperature",
@@ -12189,13 +12561,18 @@
     "name": "lightbulb_circle_fill",
     "unicode_hex": "U+F0809",
     "character": "󰠉",
-    "aliases": ["tip_circle_fill"]
+    "aliases": [
+      "tip_circle_fill"
+    ]
   },
   {
     "name": "lightbulb_fill",
     "unicode_hex": "U+F080A",
     "character": "󰠊",
-    "aliases": ["tip_fill", "idea_fill"]
+    "aliases": [
+      "tip_fill",
+      "idea_fill"
+    ]
   },
   {
     "name": "lightbulb_slash_fill",
@@ -13299,7 +13676,9 @@
     "name": "plus_square",
     "unicode_hex": "U+F08C3",
     "character": "󰣃",
-    "aliases": ["add_square"]
+    "aliases": [
+      "add_square"
+    ]
   },
   {
     "name": "earphone_bluetooth",
@@ -13797,7 +14176,10 @@
     "name": "bolt_fill",
     "unicode_hex": "U+F0916",
     "character": "󰤖",
-    "aliases": ["flash_fill", "power_fill"]
+    "aliases": [
+      "flash_fill",
+      "power_fill"
+    ]
   },
   {
     "name": "bookshelf_badge_checkmark",
@@ -14043,7 +14425,9 @@
     "name": "camera_slash_fill",
     "unicode_hex": "U+F0940",
     "character": "󰥀",
-    "aliases": ["camera_off_fill"]
+    "aliases": [
+      "camera_off_fill"
+    ]
   },
   {
     "name": "checkmark_message_fill",
@@ -14175,7 +14559,9 @@
     "name": "pencil_circle_fill",
     "unicode_hex": "U+F0956",
     "character": "󰥖",
-    "aliases": ["edit_circle_fill"]
+    "aliases": [
+      "edit_circle_fill"
+    ]
   },
   {
     "name": "phone_fill_slash",
@@ -14301,13 +14687,17 @@
     "name": "folder_badge_ellipsis",
     "unicode_hex": "U+F096B",
     "character": "󰥫",
-    "aliases": ["folder_more"]
+    "aliases": [
+      "folder_more"
+    ]
   },
   {
     "name": "ellipsis_circle",
     "unicode_hex": "U+F096C",
     "character": "󰥬",
-    "aliases": ["more_circle"]
+    "aliases": [
+      "more_circle"
+    ]
   },
   {
     "name": "calendar_01",
@@ -18105,7 +18495,9 @@
     "name": "camera_circle_fill",
     "unicode_hex": "U+F0BF0",
     "character": "󰯰",
-    "aliases": ["photo_circle_fill"]
+    "aliases": [
+      "photo_circle_fill"
+    ]
   },
   {
     "name": "card_badge_yuansign_arrow_counterclockwise",
@@ -21237,7 +21629,10 @@
     "name": "display",
     "unicode_hex": "U+F0DFD",
     "character": "󰷽",
-    "aliases": ["monitor", "screen"]
+    "aliases": [
+      "monitor",
+      "screen"
+    ]
   },
   {
     "name": "powercord",
@@ -22707,7 +23102,10 @@
     "name": "xmark_square",
     "unicode_hex": "U+F0EF4",
     "character": "󰻴",
-    "aliases": ["close_square", "cancel_square"]
+    "aliases": [
+      "close_square",
+      "cancel_square"
+    ]
   },
   {
     "name": "xmark_lower_2",
@@ -24675,7 +25073,10 @@
     "name": "square_on_square_fill",
     "unicode_hex": "U+F1040",
     "character": "󱁀",
-    "aliases": ["fullscreen_fill", "expand_fill"]
+    "aliases": [
+      "fullscreen_fill",
+      "expand_fill"
+    ]
   },
   {
     "name": "peak_weigh_fill",
@@ -24813,7 +25214,9 @@
     "name": "camera_slash",
     "unicode_hex": "U+F1057",
     "character": "󱁗",
-    "aliases": ["camera_off"]
+    "aliases": [
+      "camera_off"
+    ]
   },
   {
     "name": "cookie_slash",
@@ -27411,7 +27814,9 @@
     "name": "rectangle_on_square",
     "unicode_hex": "U+F120E",
     "character": "󱈎",
-    "aliases": ["fullscreen_portrait"]
+    "aliases": [
+      "fullscreen_portrait"
+    ]
   },
   {
     "name": "satellite_1_fill",
@@ -27669,7 +28074,9 @@
     "name": "star_slash",
     "unicode_hex": "U+F1239",
     "character": "󱈹",
-    "aliases": ["unfavorite"]
+    "aliases": [
+      "unfavorite"
+    ]
   },
   {
     "name": "xmark_arrow_2_circlepath",
