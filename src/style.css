@@ -1,144 +1,149 @@
 /* 1. 字体加载 */
 @font-face {
-    font-family: 'HMSymbolVF';
-    src: url('./assets/HMSymbolVF.ttf') format('truetype');
-    font-weight: 100 900;
-    font-style: normal;
+  font-family: "HMSymbolVF";
+  src: url("./assets/HMSymbolVF.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
 }
 
 /* 基础样式和颜色 */
 :root {
-    --bg-color: #f7f7f7;
-    --card-bg: #ffffff;
-    --text-color: #333;
-    --icon-color: #FF5014;
-    --name-color: #343a40;
-    --unicode-color: #6c757d;
-    --toast-bg: #ff9875;
-    --toast-text: #000000;
-    --input-border: #ccc;
-    --input-focus: #FF5014;
+  --bg-color: #f7f7f7;
+  --card-bg: #ffffff;
+  --text-color: #333;
+  --icon-color: #ff5014;
+  --name-color: #343a40;
+  --unicode-color: #6c757d;
+  --toast-bg: #ff9875;
+  --toast-text: #000000;
+  --input-border: #ccc;
+  --input-focus: #ff5014;
 }
 
 body {
-    font-family: 'Consolas', 'Menlo';
-    padding: 40px 20px;
-    background-color: var(--bg-color);
-    color: var(--text-color);
+  font-family: "Consolas", "Menlo";
+  padding: 40px 20px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
 }
 
 h1 {
-    text-align: center;
-    margin-bottom: 20px;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 /* 搜索栏样式 */
 .search-container {
-    max-width: 800px;
-    margin: 0 auto 30px;
-    text-align: center;
+  max-width: 800px;
+  margin: 0 auto 30px;
+  text-align: center;
 }
 
 #search-input {
-    width: 100%;
-    padding: 12px 15px;
-    border: 1px solid var(--input-border);
-    border-radius: 6px;
-    font-size: 16px;
-    transition: border-color 0.2s;
-    box-sizing: border-box;
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid var(--input-border);
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.2s;
+  box-sizing: border-box;
 }
 
 #search-input:focus {
-    border-color: var(--input-focus);
-    outline: none;
+  border-color: var(--input-focus);
+  outline: none;
 }
 
 .count-info {
-    font-size: 13px;
-    color: #666;
-    margin-top: 10px;
+  font-size: 13px;
+  color: #666;
+  margin-top: 10px;
 }
 
 /* 符号容器 - 使用 CSS Grid */
 #symbols-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-    gap: 15px;
-    max-width: 1200px;
-    margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 15px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* 符号卡片样式 */
 .symbol-item {
-    background-color: var(--card-bg);
-    border-radius: 8px;
-    padding: 15px 10px;
-    text-align: center;
-    cursor: pointer;
-    transition: transform 0.2s, box-shadow 0.2s, background-color 0.2s;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    /* 修正 min-height，使其保持稳定 */
-    min-height: 110px;
+  background-color: var(--card-bg);
+  border-radius: 8px;
+  padding: 15px 10px;
+  text-align: center;
+  cursor: pointer;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s,
+    background-color 0.2s;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* 修正 min-height，使其保持稳定 */
+  min-height: 110px;
 }
 
 /* 悬停效果 */
 .symbol-item:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
 }
 
 /* 符号图标 */
 .icon {
-    font-family: 'HMSymbolVF';
-    font-size: 36px;
-    display: block;
-    margin: 5px 0 10px 0;
-    color: var(--icon-color);
-    font-weight: 400;
+  font-family: "HMSymbolVF";
+  font-size: 36px;
+  display: block;
+  margin: 5px 0 10px 0;
+  color: var(--icon-color);
+  font-weight: 400;
 }
 
 /* 名称和 Unicode 码点文本 */
 .name,
 .unicode {
-    font-size: 11px;
-    word-break: break-all;
-    line-height: 1.4;
-    min-height: 15px;
+  font-size: 11px;
+  word-break: break-all;
+  line-height: 1.4;
+  min-height: 15px;
 }
 
 .name {
-    font-weight: 600;
-    color: var(--name-color);
+  font-weight: 600;
+  color: var(--name-color);
 }
 
 .unicode {
-    color: var(--unicode-color);
+  color: var(--unicode-color);
 }
 
 /* --- Toast 提示框样式 --- */
 #toast {
-    visibility: hidden; /* 默认隐藏 */
-    min-width: 250px;
-    background-color: var(--toast-bg);
-    color: var(--toast-text);
-    text-align: center;
-    border-radius: 8px;
-    padding: 16px;
-    position: fixed;
-    z-index: 1000;
-    left: 50%;
-    bottom: 30px;
-    transform: translateX(-50%);
-    font-size: 14px;
-    opacity: 0;
-    transition: opacity 0.5s, bottom 0.5s;
+  visibility: hidden; /* 默认隐藏 */
+  min-width: 250px;
+  background-color: var(--toast-bg);
+  color: var(--toast-text);
+  text-align: center;
+  border-radius: 8px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1000;
+  left: 50%;
+  bottom: 30px;
+  transform: translateX(-50%);
+  font-size: 14px;
+  opacity: 0;
+  transition:
+    opacity 0.5s,
+    bottom 0.5s;
 }
 
 #toast.show {
-    visibility: visible;
-    opacity: 1;
-    bottom: 50px; /* 向上移动一点以示动画 */
+  visibility: visible;
+  opacity: 1;
+  bottom: 50px; /* 向上移动一点以示动画 */
 }
