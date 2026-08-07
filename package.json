@@ -1,0 +1,18 @@
+{
+  "name": "hm-symbol-website",
+  "version": "0.0.1",
+  "description": "用于便捷查找鸿蒙 HM Symbol 中的图标",
+  "type": "module",
+  "scripts": {
+    "extract": "node scripts/extract-symbols.mjs",
+    "predev": "node scripts/extract-symbols.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/extract-symbols.mjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "fontkit": "^2.0.4",
+    "vite": "^8.2.1"
+  }
+}
